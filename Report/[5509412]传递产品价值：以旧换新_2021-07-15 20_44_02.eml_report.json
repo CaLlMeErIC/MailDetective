@@ -1,0 +1,15 @@
+{
+    "CheckDate": [
+        2,
+        "邮件时间在received时间之前6-12小时"
+    ],
+    "total_score": 3,
+    "TO_MALFORMED": [
+        1,
+        "to字段畸形"
+    ],
+    "邮件标签": [
+        "to字段异常",
+        "邮件时间在received时间之前6-12小时"
+    ]
+}

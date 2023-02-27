@@ -1,0 +1,206 @@
+Received: from A010521-NC.ESG.360ES.CN (unknown [10.91.22.29])
+	by skyeye.com (Postfix) with ESMTP id 68BC110007679
+	for <2_qushi_eml@black.com>; Thu, 28 Jan 2021 20:11:34 +0800 (CST)
+Received: from irvine.triationne.us (unknown [162.244.11.147])
+	by mail01.b.360.cn (Postfix) with ESMTP id F08AB7E042
+	for <ecoffey@360.net>; Thu,  7 Mar 2019 21:30:36 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=triationne.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID;
+ i=backpaincure@triationne.us;
+ bh=X55zNT4TGxea2yxcjC4MSvtQtQc=;
+ b=ZThxnLLMI7NuK6IlWm8rTSVQbQ5hWg5q9apijGjdJUnFc+jcXFyqzviRAx04UkfqNKfE8Zvosjq3
+   58soBYsxVrj60cjpPPLcrINCvo/S50d/bx37/YWJgHRwoGlIouAbAv0jUxbIOF2cHRIz5Qc0gIqQ
+   7X2Fh7h2o9lgkR3WGXk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=triationne.us;
+ b=vnNL/C3tKODIuT++qlvp51UB6wNmF+4yzf2Sk4Sj3UMiOB8X9kC6zso/SR4uTbo1YlkV37X5KTPY
+   uJmMdNvEbn55aNK5ZWMtTrw9Fkkc22J5kO9+YtDy7fyFWVY6XkoQKfyGM2ZUgmnmpQYZ9r3rkTcE
+   eVAqkdWH/2ZwwQpmSRs=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="0ba6ea733e74bde02b34960f0d954dcb"
+Date: Thu, 7 Mar 2019 14:35:44 +0100
+From: Back Pain Cure <backpaincure@triationne.us>
+Reply-To: "Your Back Pain" <backpaincure@triationne.us>
+Subject: 1 Weird Stretch DESTROYS Back Pain & Sciatica
+To: <ecoffey@360.net>
+Message-ID: <ebav02il3uqb99kc-nk5avvezeg0vy5yr-38f0@triationne.us>
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.0.0.1549-8.2.0.1013-24474.005
+X-TM-AS-Result: Yes-122.528-6.0-31-11
+X-imss-scan-details: Yes-122.528-6.0-31-11
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+X-TMASE-Version: IMSVA-9.0.0.1549-8.2.1013-24474.005
+X-TMASE-Result: 11-122.527900-10.000000
+X-TMASE-MatchedRID: OoEa6u7Uk5/pZtENbYBzYijZJ2BaS2di8DddBpD9ZWM4zOCSl+xDU3fx
+	myp6rwRIwbRQ2BpmlioFr/3JMFzytQPAa52tRzEAu8iyJCyNt6nv4R5AzKNGxitMgircbnS/sKr
+	mNJBIHWdDmVmiQbM5qkyWLwjUVKFuCV/ZI2gDU35qRyrZEAcpyj/p+934bmaathKqBn2pDO1/Xg
+	n9EbUCW0HrI6vFzzG7knf4kLm9Z8eWyfgOTrkXCv9munjzc4K49iX+H8FLa2r0Oia5l42dJmJZX
+	QNDzktSRU4X3Mu13Iw83MSE8OQ7SRyNr44gj8j79GbSSaq0f4MNi0pLj44wjAGViHrWez/E0Izu
+	ock/1MmLzZSKyQypzO9X0uUhsmIcTU+iLrR/4UF+cp5b1QPq704RB1JXMIJay9UY4kTAnEhD22D
+	6nfxmiW017GWSuPCfrh2Bn3W8541C6Yl3jPbsQguVMctAPCgtDwksaFUY9MYAV3s6im81v7xC8P
+	kooI11D7WtOqe42xY4v0EQeJuGyB6jJOBHtX/MRdDJkmsrEzB4Kfn+AhKvHOxeLdpEs7p+tndPq
+	nF96N0cUAl2qrF9yXcF/0kiqyh4JxIU1Ep9Atg4qVeUXvXeqnxKD4FyTsVMhoAVLe/nLRPgzylX
+	tZE5aX7siEtWY367ShVPkKm2lvrSauv9hRXQJPVYs4LH3p2UiBwN7hHJd1AMRK7zBtM5dF/0iWU
+	laNSZKqbRTxCI1HTXO6omeezMlUkrZ4mFjTbD6Y28fYEYc2WlE62ViDHLlQJnaK6TapTqC4+rpp
+	BRJ3aWhFyOP7vBdWNPUMiyYaTpsFa1XjBFcnxxrsYs2oqk6yxiA3eTP0c+gDLqnrRlXrYijgwvq
+	p5qwbNlueoEQK7kB49HwtD+M4Gnpborf6XBaSYtJFBbd2wZ
+X-TMASE-SNAP-Result: Not scanned
+X-imss-reprocess-rules: 2.178
+X-imss-reprocess-type: quarantine
+
+--0ba6ea733e74bde02b34960f0d954dcb
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--0ba6ea733e74bde02b34960f0d954dcb
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<style media="all" type="text/css">
+	</style>
+</head>
+<body><a href="http://triationne.us/1UfZ63RVrl0S8SYeb27NGGXYv92F8X-9Gyp9woffITCdniCq"><img border="0" src="http://triationne.us/5LDQOIE9DYr5084yk1MF7Nfvp_rH79ScchMq-XaWMkHJ0_94" /> </a>
+<table align="center" id="DOTTED" name="14px" title="3px">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" id="groove" name="12px" title="7px">
+				<tbody>
+					<tr>
+						<td align="center" style="padding-top: 2px;">
+						<table align="center" style="border:double 5px #000000; width:650px;">
+							<tbody>
+								<tr>
+									<td>
+									<table align="center" width="650px">
+										<tbody>
+											<tr>
+											</tr>
+											<tr>
+												<td align="left" border="0" cellpadding="20" cellspacing="0" style="height:125px; line-height:1.4; font-size:15px; font-family:Trebuchet, sans-serif ;
+		text-align:justify;  padding:20px;">
+												<p>Emily was just 12 years old the night she thought she was going to die...</p>
+
+												<p>Out in the middle of the pitch black New Mexico desert, suddenly paralyzed and sur-rounded by shattered glass...</p>
+
+												<p>...she can still remember counting each breath, wondering if it was going to be her last.</p>
+
+												<p>Fighting for her life that night, Emily had no idea her nightmare had only just begun, as the events from that horrific night would come back over 15 years later to nearly destroy her life...</p>
+
+												<p>...and that&#39;s when something miraculous happened.</p>
+
+												<p>Seemingly out of nowhere, Emily stumbled onto this 1 unusual stretch that completely eliminated her back pain and sciatica, and just in time to save herself from dangerous and life-threatening surgery:</p>
+
+												<p><a href="http://triationne.us/kH7v1UGjn8sHXhOWOh8LH6Xme8Dn4S0QVdYMuwzhTTowB6G5"><b>=&gt; 1 Weird Stretch HEALS Back Pain and Sciatica</b></a><b>.</b></p>
+
+												<p><a href="http://triationne.us/kH7v1UGjn8sHXhOWOh8LH6Xme8Dn4S0QVdYMuwzhTTowB6G5"><img src="http://triationne.us/02e3ec0110d9ec9dad.jpg" /></a></p>
+
+												<p>And this doesn&#39;t only work for Emily, or those that are considering surgery... this sur-prising stretch is now helping thousands of back pain and sciatica sufferers from all over the world...</p>
+
+												<p>It worked for Emily and now works for thousands of others... it can work for you too. Just do what Emily did here:</p>
+
+												<p><a href="http://triationne.us/kH7v1UGjn8sHXhOWOh8LH6Xme8Dn4S0QVdYMuwzhTTowB6G5"><b>=&gt; 1 Weird Stretch HEALS Back Pain and Sciatica</b></a><b>.</b></p>
+
+												<p>Here&#39;s to a pain-free life!<br />
+												Ervin</p>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" id="14px" name="14px" title="outset"><br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						<a href="http://triationne.us/WYX8Ap-nJx4VwZb7ci7ROyCmzMTtjafKUk51UIEw7gttSsrA" style="font-size:16px;"><img alt="To opt-out go here." src="http://triationne.us/2d231c533cdce2c01c.jpg" /></a></td>
+					</tr>
+					<tr>
+						<td align="center">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			<br />
+			<br />
+			&nbsp;
+			<table align="center" class="dm">
+				<tbody>
+					<tr>
+						<td colspan="2" style="background-color:#ffffff"><span style="color:#ffffff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; font-size:10px">the modern orchestra, which the composer considered &quot;perfectly designed for underlining and exaggerating comic effects&quot;. Edward Burlingame Hill found Ravel&#39;s vocal writing particularly skilful in the work, &quot;giving the singers something besides recitative without hampering the action&quot;, and &quot;commenting orchestrally upon the dramatic situations and the sentiments of the actors without diverting attention from the stage.&quot; Some find the characters artificial and the piece lacking in humanity. The critic David Murray writes that the score &quot;glows with the famous Ravel tendresse&quot;. </span><br />
+						<br />
+						<span style="color:#ffffff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; font-size:10px">The second opera, also in one act, is L&#39;enfant et les sortil&egrave;ges (1926), a &quot;fantaisie lyrique&quot; to a libretto by Colette. She and Ravel had planned the story as a ballet, but at the composer&#39;s suggestion Colette turned it into an opera libretto. It is more uncompromisingly modern in its musical style than L&#39;heure espagnole, and the jazz elements and bitonality of much of the work upset many Parisian opera- </span><br />
+						<br />
+						<span style="color:#ffffff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; font-size:10px">goers. Ravel was once again accused of artificiality and lack of human emotion, but Nichols finds &quot;profoundly serious feeling at the heart of this vivid and entertaining work&quot;. The score presents an impression of simplicity, disguising intricate links between themes, with, in Murray&#39;s phrase, &quot;extraordinary and bewitching sounds from the orchestra pit throughout&quot;. Although one-act operas are generally staged less often than full-length ones, Ravel&#39;s are produced regularly in France and abroad. Other vocal works </span><br />
+						<br />
+						<span style="color:#ffffff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; font-size:10px">A substantial proportion of Ravel&#39;s output was vocal. His early works in that sphere include cantatas written for his unsuccessful attempts at the Prix de Rome. His other vocal music from that period shows Debussy&#39;s influence, in what Kelly describes as &quot;a static, recitative-like vocal style&quot;, prominent piano parts and rhythmic flexibility. By 1906 Ravel was taking even further than Debussy the natural, sometimes colloquial, setting of the French language in Histoires naturelles. The same technique is highlighted in Trois po&egrave;mes de Mallarm&eacute; (1913); Debussy set two of the three poems at the same time as Ravel, and the former&#39;s word-setting is noticeably more formal than the latter&#39;s, in which </span><br />
+						<br />
+						<span style="color:#ffffff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; font-size:10px">syllables are often elided. In the cycles Sh&eacute;h&eacute;razade and Chansons mad&eacute;casses, Ravel gives vent to his taste for the exotic, even the sensual, in both the vocal line and the accompaniment. Ravel&#39;s songs often draw on vernacular styles, using elements of many folk traditions in such works as Cinq m&eacute;lodies populaires grecques, Deux m&eacute;lodies h&eacute;bra&iuml;ques and Chants populaires. Among the poets on whose lyrics he drew were Marot, L&eacute;on-Paul Fargue, Leconte de Lisle and Verlaine. For three songs dating from 1914&ndash;15, he wrote his own texts. </span><br />
+						&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;
+			<p align="center"><a href="http://triationne.us/IHwgfraYGSrD8RZtmDLY6IB68Pi0RTIEVpu8CThBdHzGEIp2"><img src="http://triationne.us/0457c49dfcf71e2511.jpg" /></a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+
+--0ba6ea733e74bde02b34960f0d954dcb--

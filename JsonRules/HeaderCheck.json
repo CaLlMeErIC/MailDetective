@@ -1,0 +1,271 @@
+[
+    {
+        "pattern": "(?:\\s|^)\"\" <\\S+>",
+        "score": 2.1,
+        "description": "from包含空名字",
+        "re.flag": "re.i",
+        "area": "from",
+        "tag":"from为空",
+        "flag":"FROM_BLANK_NAME"
+    },
+    {
+        "pattern": "^\\d{3,50}[^0-9\\@]",
+        "score": 2.8,
+        "description": "from以连续数字开头",
+        "re.flag": 0,
+        "area": "from",
+        "tag":"from以连续数字开头",
+        "flag":"FROM_STARTS_WITH_NUMS"
+    },
+    {
+        "pattern": "\\?.*!|!.*\\?",
+        "score": 0.1,
+        "description": "subject同时包括感叹号和问号",
+        "re.flag": 0,
+        "area": "subject",
+        "tag":"不正常的标题",
+        "flag":"PLING_QUERY"
+    },
+    {
+        "pattern": "^\\s*<?[A-Z]+\\@(?!(?:mailcity|whowhere)\\.com)",
+        "score": 2.4,
+        "description": "message-id包含疑似攻击域名(caps variant)",
+        "re.flag": 0,
+        "area": "message-id",
+        "tag":"message-id包含攻击域名",
+        "flag":"MSGID_SPAM_CAPS"
+    },
+    {
+        "pattern": "<[a-z]{5,}\\@(\\S+\\.)+\\S+>",
+        "score": 2.4,
+        "description": "message-id包含疑似攻击域名(letters variant)",
+        "re.flag": 0,
+        "area": "message-id",
+        "tag":"message-id包含攻击域名",
+        "flag":"MSGID_SPAM_LETTERS"
+    },
+    {
+        "pattern": "<[A-Z]+\\@yahoo.com>",
+        "score": 2.4,
+        "description": "Message-ID 是全大写+@yahoo.com的格式",
+        "re.flag": 0,
+        "area": "message-id",
+        "flag":"MSGID_YAHOO_CAPS"
+    },
+    {
+        "pattern": "^.{1,15}$|<.{0,4}\\@",
+        "score": 0.3,
+        "description": "Message-ID过短",
+        "re.flag": 0,
+        "area": "message-id",
+        "tag":"message-id异常",
+        "flag":"MSGID_SHORT"
+    },
+    {
+        "pattern": "^[A-Z][a-z]{2}, \\d\\d [A-Z][a-z]{2} [0-6]\\d \\d\\d:\\d\\d:\\d\\d [A-Z]{3}$",
+        "score": 0.5,
+        "description": "date使用了不正常的Y2K格式",
+        "re.flag": 0,
+        "area": "date",
+        "tag":"date异常",
+        "flag":"DATE_SPAMWARE_Y2K"
+    },
+    {
+        "pattern": "[-+](?!(?:0\\d|1[0-4])(?:[03]0|[14]5))\\d{4}$",
+        "score": 0.5,
+        "description": "date是不合法的时区",
+        "re.flag": 0,
+        "area": "date",
+        "date": "date异常",
+        "flag":"INVALID_DATE_TZ_ABSURD"
+    },
+    {
+        "pattern": "[+-]\\d\\d[30]0(?<!-0600|-0500|\\+0800|\\+0930|\\+1030)\\s+(?:\\bCST\\b|\\(CST\\))",
+        "score": 0.5,
+        "description": "date是不合法的时区",
+        "re.flag": 0,
+        "area": "date",
+        "date": "date异常",
+        "flag":"INVALID_TZ_CST"
+    },
+    {
+        "pattern": "^[^0-9a-z]*adv(?:ert)?\\b",
+        "score": 1,
+        "description": "标题包含英文UCE tag",
+        "re.flag": "re.i",
+        "area": "subject",
+        "tag":"疑似广告",
+        "flag":"ENGLISH_UCE_SUBJECT"
+    },
+    {
+        "pattern": "\\.(?!br).. \\(\\d+-\\d+-\\d+-\\d+\\.dsl\\.telesp\\.net\\.br ",
+        "score": 2.5,
+        "description": "包含伪造的hostname",
+        "re.flag": "re.i",
+        "area": "received",
+        "tag":"hostname伪造",
+        "flag":"FORGED_TELESP_RCVD"
+    },
+    {
+        "pattern": "\\b(?:[a-z]([-_. =~\\/:,*!\\@\\#\\$\\%\\^&+;\\\"\\'<>\\\\])\\1{0,2}){4}",
+        "score": 2.5,
+        "description": "标题存在类似G.a.p.p.y-T.e.x.t形式的字符串",
+        "re.flag": "re.i",
+        "area": "subject",
+        "tag":"标题异常",
+        "flag":"GAPPY_SUBJECT"
+    },
+    {
+        "pattern": "^\\$[0-9.,]+\\b",
+        "score": 1,
+        "description": "标题以美元符号开头",
+        "re.flag": 0,
+        "area": "subject",
+        "tag":"标题异常",
+        "flag":"SUBJ_DOLLARS"
+    },
+    {
+        "pattern": "^from (?:msn|yahoo|yourwebsite|lycos|excite|cs|aol|localhost|koreanmail|allexecs|mydomain|juno|eudoramail|compuserve|desertmail|excite|caramail)\\.com \\(",
+        "score": 3,
+        "description": "received字段存在虚假的HELO hostname",
+        "re.flag": "re.m",
+        "area": "received",
+        "tag":"伪造的HELO hostname",
+        "flag":"RCVD_FAKE_HELO_DOTCOM"
+    },
+    {
+        "pattern": "boundary=\\\"--\\d+\\\"",
+        "score": 3,
+        "description": "Content-Type存在攻击工具的痕迹",
+        "re.flag": 0,
+        "area": "content-type",
+        "tag":"content-type异常",
+        "flag":"MIME_BOUND_DD_DIGITS"
+    },
+    {
+        "pattern": "boundary=\\\"\\d{15,}\\\"",
+        "score": 3,
+        "description": "Content-Type存在攻击工具的痕迹",
+        "re.flag": 0,
+        "area": "content-type",
+        "tag":"content-type异常",
+        "flag":"MIME_BOUND_DIGITS_15"
+    },
+    {
+        "pattern": "boundary=\"[\\da-f]{8}(?:-[\\da-f]{4}){3}-[\\da-f]{12}\"",
+        "score": 3,
+        "description": "Content-Type存在攻击工具的痕迹",
+        "re.flag": 0,
+        "area": "content-type",
+        "tag":"content-type异常",
+        "flag":"MIME_BOUND_MANY_HEX"
+    },
+    {
+        "pattern": "(?:^|[^\\S\"])(?:(?:\\\"[^\\\"]+\\\"|\\S+)\\@\\S+\\.\\S+|^\\s*.+:\\s*;|^\\s*\\\"[^\\\"]+\\\":\\s*;|^\\s*\\([^\\)]*\\)\\s*$|<\\S+(?:\\!\\S+){1,}>|^\\s*$)",
+        "score": 1,
+        "description": "to字段畸形",
+        "re.flag": 0,
+        "area": "to",
+        "tag":"to字段异常",
+        "flag":"TO_MALFORMED"
+    },
+    {
+        "pattern": "\\swith\\ssmtp;\\s",
+        "score": 1,
+        "description": "received字段存在疑似垃圾邮件痕迹（小写的smtp）",
+        "re.flag": 0,
+        "area": "received",
+        "tag":"疑似垃圾邮件痕迹",
+        "flag":"WITH_LC_SMTP"
+    },
+    {
+        "pattern": "^买|^购",
+        "score": 1,
+        "description": "subject字段存在买关键词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag":"疑似垃圾邮件痕迹",
+        "flag":"SUBJ_BUY"
+    },
+    {
+        "pattern": "\\.mr\\.outblaze\\.com",
+        "score": 1,
+        "description": "received存在伪造的字段(outblaze)",
+        "re.flag": 0,
+        "area": "received",
+        "tag":"疑似邮件头伪造",
+        "flag":"FAKE_OUTBLAZE_RCVD"
+    },
+    {
+        "pattern": "\\[\\d+\\r?\\n",
+        "score": 1,
+        "description": "邮件头有未闭合的括号",
+        "re.flag": "re.s",
+        "area": "all",
+        "tag":"邮件头异常",
+        "flag":"UNCLOSED_BRACKET"
+    },
+    {
+        "pattern": "\\@\\S*[bcdfgjklmnpqrstvwxz]{7}",
+        "score": 1,
+        "description": "发件人异常（域名部分没有任何元音字母）",
+        "re.flag": "re.i",
+        "area": "from",
+        "tag":"发件人异常",
+        "flag":"FROM_DOMAIN_NOVOWEL"
+    },
+    {
+        "pattern": "[bcdfgjklmnpqrstvwxz]{7}\\S*\\@",
+        "score": 1,
+        "description": "发件人异常（localpart部分无任何元音字母）",
+        "re.flag": "re.i",
+        "area": "from",
+        "tag":"发件人异常",
+        "flag":"FROM_LOCAL_NOVOWEL"
+    },
+    {
+        "pattern": "[0-9a-f]{11}\\S*\\@",
+        "score": 1,
+        "description": "发件人异常（localpart有大量16进制字符）",
+        "re.flag": "re.i",
+        "area": "from",
+        "tag":"发件人异常",
+        "flag":"FROM_LOCAL_HEX"
+    },
+    {
+        "pattern": "\\d{11}\\S*\\@",
+        "score": 1,
+        "description": "发件人异常（localpart有大量数字）",
+        "re.flag": "re.i",
+        "area": "from",
+        "tag":"发件人异常",
+        "flag":"FROM_LOCAL_DIGITS"
+    },
+    {
+        "pattern": " (?:by|ip)=(?=\\d+\\.\\d+\\.\\d+\\.\\d+ )(?:(?:0|2(?:2[4-9]|[3-5]\\d)|192\\.0\\.2|198\\.51\\.100|203\\.0\\.113)\\.|(?:\\d+\\.){0,3}(?!(?:2(?:[0-4]\\d|5[0-5])|[01]?\\d\\d?)\\b))",
+        "score": 3,
+        "description": "received中存在非公网ip",
+        "re.flag": "re.i",
+        "area": "received",
+        "tag":"received存在非公网ip",
+        "flag":"RCVD_ILLEGAL_IP"
+    },
+    {
+        "pattern": "; [A-Z][a-z][a-z], \\d{1,2} \\d{4} \\d{1,2}:\\d\\d:\\d\\d [AP]M [+-]\\d{4}",
+        "score": 3,
+        "description": "received字段是伪造的（AM/PM）",
+        "re.flag": "re.i",
+        "area": "received",
+        "tag":"伪造的received字段",
+        "flag":"RCVD_AM_PM"
+    },
+    {
+        "pattern": "\\bmessage\\/partial",
+        "score": 3,
+        "description": "邮件信息不完整",
+        "re.flag": "re.i",
+        "area": "content-type",
+        "tag":"信息不完整",
+        "flag":"FRAGMENTED_MESSAGE"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "pattern": "https?://[\\d.]+(?:[:/?\\#]|$)",
+        "score": 2.1,
+        "description": "链接中包含数字ip地址",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"链接中包含数字的ip地址",
+        "flag":"NUMERIC_HTTP_ADDR"
+    },
+    {
+        "pattern": "https?\\:\\/\\/[^\\/\\s\\?\\&\\#\\']*(?!%(?:20|3[cCeE])(?:https?:|mailto:))%[0-9a-fA-F][0-9a-fA-F]",
+        "score": 1,
+        "description": "hostname中包含逃逸",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"链接中包含hostname逃逸",
+        "flag":"HTTP_ESCAPED_HOST"
+    },
+    {
+        "pattern": "https?:\\/\\/\\S*%(?:3\\d|[46][1-9a-f]|[57][\\da])",
+        "score": 1,
+        "description": "url中包含不必要的百分号逃逸",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url中包含不必要的百分号逃逸",
+        "flag":"HTTP_EXCESSIVE_ESCAPES"
+    },
+    {
+        "pattern": "https?://\\d+\\.\\d+\\.\\d+\\.\\d+.{0,20}(?:cgi|click|ads|id=)",
+        "score": 1,
+        "description": "点状ip后包含了cgi",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"点状ip后包含了cgi",
+        "flag":"IP_LINK_PLUS"
+    },
+    {
+        "pattern": "https?://[^/?\\s]+?:\\d+(?<!:80)(?<!:443)(?<!:8080)(?:/|\\s|$)",
+        "score": 1,
+        "description": "url中包含不常用端口",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url中包含不常用端口",
+        "flag":"WEIRD_PORT"
+    },
+    {
+        "pattern": "https?://[^\\s\\\">/]*\\&\\#[\\da-f]+",
+        "score": 1,
+        "description": "uri被字符实体遮挡",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url被字符实体遮挡",
+        "flag":"HTTP_ENTITIES_HOST"
+    },
+    {
+        "pattern": "http:\\/\\/.{0,2}\\%77",
+        "score": 1,
+        "description": "url存在转义后的www",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url存在转义后的www",
+        "flag":"HTTP_77"
+    },
+    {
+        "pattern": "https?://(?:\\w+\\.)+?com\\.(?!(?:[a-z]{2}\\.)?s3\\.amazonaws\\.com|\\w+\\.psmtp\\.com)(?:\\w+\\.){2}",
+        "score": 1,
+        "description": "url在中间部分存在.com",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url在中间部分存在.com",
+        "flag":"SPOOF_COM2OTH"
+    },
+    {
+        "pattern": "https?://(?:\\w+\\.)+?(?:net|org)\\.(?!(?:[a-z]{2}\\.)?s3\\.amazonaws\\.com)(?:\\w+\\.)+?com\\b",
+        "score": 1,
+        "description": "url同时存在.net/.org/.com",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url同时存在.net/.org/.com",
+        "flag":"SPOOF_NET2COM"
+    },
+    {
+        "pattern": "https?://[^/?&\\#]*\\b(?![0-9a-f]{0,12}[a-f]{3})[0-9a-f]{6,}\\b",
+        "score": 1,
+        "description": "url存在长串16进账字符串",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url存在长串16进制字符串",
+        "flag":"URI_HEX"
+    },
+    {
+        "pattern": "https?://[^/?&\\#]*[bcdfgjklmnpqrstvwxz]{7}",
+        "score": 1,
+        "description": "url存在长串非元音字符串",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url存在长串非元音字符串",
+        "flag":"URI_NOVOWEL"
+    },
+    {
+        "pattern": "\\b(?:gone|opened|out)\\.com",
+        "score": 1,
+        "description": "url存在可疑跳转链接",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url存在可疑跳转链接",
+        "flag":"URI_UNSUBSCRIBE"
+    },
+    {
+        "pattern": "(?:https?:\\/\\/)?[^\\/]+(?<!\\/www)\\.[^.]{7,}\\.info\\/(?=\\S{15,})\\S*\\?",
+        "score": 2.3,
+        "description": "CGI in .info TLD other than third-level www",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"CGI in .info TLD other than third-level www",
+        "flag":"URI_NO_WWW_INFO_CGI"
+    },
+    {
+        "pattern": "https?://(?!1(?:0|27|69\\.254|72\\.(?:1[6-9]|2\\d|3[01])|92\\.168)\\.)\\d+\\.\\d+\\.\\d+\\.\\d+\\b(?![.-])",
+        "score": 1,
+        "description": "url中包含公网的ip地址",
+        "re.flag": "re.i",
+        "area": "url",
+        "tag":"url中包含公网的ip地址",
+        "flag":"NORMAL_HTTP_TO_IP "
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "pattern": "\\d@",
+        "score": 1.2,
+        "description": "reply-to中包含以数字结尾的地址",
+        "re.flag": 0,
+        "area": "reply-to",
+        "tag": "reply-to中包含以数字结尾的地址"
+    },
+    {
+        "pattern": "\\d@",
+        "score": 0.2,
+        "description": "subject中包含以数字结尾的地址",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "subject中包含以数字结尾的地址"
+    }
+]

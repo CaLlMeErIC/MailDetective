@@ -1,0 +1,2650 @@
+[
+    {
+        "pattern": "优惠",
+        "score": 1.2,
+        "description": "邮件标题含有 优惠 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "合作",
+        "score": 0.2,
+        "description": "邮件标题含有 合作 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "发票",
+        "score": 0.4,
+        "description": "邮件标题含有 发票 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "实业",
+        "score": 1.3,
+        "description": "邮件标题含有 实业 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "代开",
+        "score": 2.5,
+        "description": "邮件标题含有 代开 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "票",
+        "score": 0.1,
+        "description": "邮件标题含有 票 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "各类",
+        "score": 0.1,
+        "description": "邮件标题含有 各类 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "各种",
+        "score": 0.1,
+        "description": "邮件标题含有 各种 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "运作",
+        "score": 0.5,
+        "description": "邮件标题含有 运作 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "节省",
+        "score": 1.5,
+        "description": "邮件标题含有 节省 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "事宜",
+        "score": 0.2,
+        "description": "邮件标题含有 事宜 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "贸易",
+        "score": 0.5,
+        "description": "邮件标题含有 贸易 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "互利",
+        "score": 1.0,
+        "description": "邮件标题含有 互利 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "互惠",
+        "score": 1.0,
+        "description": "邮件标题含有 互惠 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "财务",
+        "score": 0.1,
+        "description": "邮件标题含有 财务 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "商务",
+        "score": 0.8,
+        "description": "邮件标题含有 商务 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "税",
+        "score": 0.2,
+        "description": "邮件标题含有 税 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "税务",
+        "score": 0.4,
+        "description": "邮件标题含有 税务 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "避税",
+        "score": 1.5,
+        "description": "邮件标题含有 避税 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "酒店",
+        "score": 0.8,
+        "description": "邮件标题含有 酒店 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "采购",
+        "score": 1.0,
+        "description": "邮件标题含有 采购 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "技巧",
+        "score": 0.1,
+        "description": "邮件标题含有 技巧 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "研修",
+        "score": 1.2,
+        "description": "邮件标题含有 研修 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "进修",
+        "score": 1.2,
+        "description": "邮件标题含有 进修 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "会议",
+        "score": 0.2,
+        "description": "邮件标题含有 会议 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "您",
+        "score": 0.1,
+        "description": "邮件标题含有 您 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "家电",
+        "score": 1.2,
+        "description": "邮件标题含有 家电 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "超低",
+        "score": 0.8,
+        "description": "邮件标题含有 超低 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "价格",
+        "score": 0.2,
+        "description": "邮件标题含有 价格 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "房价",
+        "score": 1.1,
+        "description": "邮件标题含有 房价 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "享受",
+        "score": 1.3,
+        "description": "邮件标题含有 享受 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "全国",
+        "score": 0.3,
+        "description": "邮件标题含有 全国 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "潜在",
+        "score": 1.3,
+        "description": "邮件标题含有 潜在 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "特价",
+        "score": 1.0,
+        "description": "邮件标题含有 特价 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "票据",
+        "score": 0.3,
+        "description": "邮件标题含有 票据 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "与您",
+        "score": 0.5,
+        "description": "邮件标题含有 与您 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "经理",
+        "score": 0.1,
+        "description": "邮件标题含有 经理 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "负责人",
+        "score": 0.6,
+        "description": "邮件标题含有 负责人 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "报关",
+        "score": 1.2,
+        "description": "邮件标题含有 报关 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "海关",
+        "score": 1.0,
+        "description": "邮件标题含有 海关 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "广告",
+        "score": 1.0,
+        "description": "邮件标题含有 广告 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "促销",
+        "score": 1.0,
+        "description": "邮件标题含有 促销 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "维修",
+        "score": 0.6,
+        "description": "邮件标题含有 维修 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "供应",
+        "score": 1.0,
+        "description": "邮件标题含有 供应 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "资源",
+        "score": 1.0,
+        "description": "邮件标题含有 资源 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "财富",
+        "score": 1.2,
+        "description": "邮件标题含有 财富 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "器材",
+        "score": 1.2,
+        "description": "邮件标题含有 器材 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "进口",
+        "score": 1.1,
+        "description": "邮件标题含有 进口 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "出口",
+        "score": 1.1,
+        "description": "邮件标题含有 出口 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "进出口",
+        "score": 1.1,
+        "description": "邮件标题含有 进出口 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "免费",
+        "score": 0.2,
+        "description": "邮件标题含有 免费 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "免费注册",
+        "score": 1.1,
+        "description": "邮件标题含有 免费注册 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "公司",
+        "score": 0.4,
+        "description": "邮件标题含有 公司 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "实战",
+        "score": 1.1,
+        "description": "邮件标题含有 实战 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "打败",
+        "score": 0.8,
+        "description": "邮件标题含有 打败 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "尽在",
+        "score": 0.8,
+        "description": "邮件标题含有 尽在 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "管理",
+        "score": 0.9,
+        "description": "邮件标题含有 管理 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "技能",
+        "score": 0.1,
+        "description": "邮件标题含有 技能 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "回复",
+        "score": 0.1,
+        "description": "邮件标题含有 回复 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "企业",
+        "score": 0.4,
+        "description": "邮件标题含有 企业 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "付款",
+        "score": 1.0,
+        "description": "邮件标题含有 付款 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "提升",
+        "score": 0.8,
+        "description": "邮件标题含有 提升 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "降低",
+        "score": 0.5,
+        "description": "邮件标题含有 降低 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "群发",
+        "score": 1.0,
+        "description": "邮件标题含有 群发 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "海量",
+        "score": 1.0,
+        "description": "邮件标题含有 海量 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "合办",
+        "score": 0.2,
+        "description": "邮件标题含有 合办 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "印刷",
+        "score": 1.0,
+        "description": "邮件标题含有 印刷 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "家庭",
+        "score": 0.2,
+        "description": "邮件标题含有 家庭 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "代开",
+        "score": 0.8,
+        "description": "邮件标题含有 代开 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "贵公司",
+        "score": 1.2,
+        "description": "邮件标题含有 贵公司 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "潮流",
+        "score": 0.5,
+        "description": "邮件标题含有 潮流 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "最新",
+        "score": 1.1,
+        "description": "邮件标题含有 最新 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "机票",
+        "score": 1.0,
+        "description": "邮件标题含有 机票 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "时尚",
+        "score": 1.0,
+        "description": "邮件标题含有 时尚 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "赚钱",
+        "score": 1.0,
+        "description": "邮件标题含有 赚钱 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "运输",
+        "score": 0.1,
+        "description": "邮件标题含有 运输 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "主机",
+        "score": 0.2,
+        "description": "邮件标题含有 主机 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "运用",
+        "score": 1.0,
+        "description": "邮件标题含有 运用 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "特惠",
+        "score": 1.0,
+        "description": "邮件标题含有 特惠 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "验证",
+        "score": 0.1,
+        "description": "邮件标题含有 验证 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "验证后",
+        "score": 0.5,
+        "description": "邮件标题含有 验证后 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "已成",
+        "score": 0.6,
+        "description": "邮件标题含有 已成 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "只需",
+        "score": 0.5,
+        "description": "邮件标题含有 只需 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "外商",
+        "score": 0.9,
+        "description": "邮件标题含有 外商 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "高清",
+        "score": 0.3,
+        "description": "邮件标题含有 高清 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "友情链接",
+        "score": 1.0,
+        "description": "邮件标题含有 友情链接 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "分享",
+        "score": 0.9,
+        "description": "邮件标题含有 分享 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "管理",
+        "score": 0.3,
+        "description": "邮件标题含有 管理 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "资料",
+        "score": 0.3,
+        "description": "邮件标题含有 资料 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "窃听",
+        "score": 0.9,
+        "description": "邮件标题含有 窃听 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "报价",
+        "score": 0.8,
+        "description": "邮件标题含有 报价 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "航空",
+        "score": 0.6,
+        "description": "邮件标题含有 航空 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "旅游",
+        "score": 0.2,
+        "description": "邮件标题含有 旅游 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "\\d元",
+        "score": 0.8,
+        "description": "邮件标题含有 \\d元 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "商管",
+        "score": 0.4,
+        "description": "邮件标题含有 商管 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "营销",
+        "score": 0.6,
+        "description": "邮件标题含有 营销 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "最新",
+        "score": 0.1,
+        "description": "邮件标题含有 最新 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "客户",
+        "score": 0.3,
+        "description": "邮件标题含有 客户 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "行业",
+        "score": 0.2,
+        "description": "邮件标题含有 行业 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "注塑",
+        "score": 0.7,
+        "description": "邮件标题含有 注塑 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "闲置",
+        "score": 0.8,
+        "description": "邮件标题含有 闲置 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "AD：",
+        "score": 1.0,
+        "description": "邮件标题含有 AD： 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "票验证",
+        "score": 0.3,
+        "description": "邮件标题含有 票验证 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "职业",
+        "score": 0.3,
+        "description": "邮件标题含有 职业 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "全套",
+        "score": 0.7,
+        "description": "邮件标题含有 全套 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "费用",
+        "score": 0.3,
+        "description": "邮件标题含有 费用 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "统筹",
+        "score": 0.8,
+        "description": "邮件标题含有 统筹 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "趋势",
+        "score": 0.8,
+        "description": "邮件标题含有 趋势 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "行政工作",
+        "score": 0.8,
+        "description": "邮件标题含有 行政工作 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "准则",
+        "score": 0.6,
+        "description": "邮件标题含有 准则 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "高效",
+        "score": 0.78,
+        "description": "邮件标题含有 高效 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "高潮",
+        "score": 0.082,
+        "description": "邮件标题含有 高潮 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "灵活",
+        "score": 0.5,
+        "description": "邮件标题含有 灵活 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "征集",
+        "score": 0.7,
+        "description": "邮件标题含有 征集 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "中层",
+        "score": 0.7,
+        "description": "邮件标题含有 中层 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "订阅",
+        "score": 0.4,
+        "description": "邮件标题含有 订阅 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "商机",
+        "score": 0.6,
+        "description": "邮件标题含有 商机 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "怎样",
+        "score": 0.5,
+        "description": "邮件标题含有 怎样 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "获得",
+        "score": 0.5,
+        "description": "邮件标题含有 获得 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "更",
+        "score": 0.1,
+        "description": "邮件标题含有 更 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "强烈",
+        "score": 0.7,
+        "description": "邮件标题含有 强烈 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "绩效",
+        "score": 0.7,
+        "description": "邮件标题含有 绩效 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "训练",
+        "score": 0.7,
+        "description": "邮件标题含有 训练 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "高级",
+        "score": 0.1,
+        "description": "邮件标题含有 高级 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "性爱",
+        "score": 0.9,
+        "description": "邮件标题含有 性爱 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "持久",
+        "score": 0.7,
+        "description": "邮件标题含有 持久 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "节能",
+        "score": 0.5,
+        "description": "邮件标题含有 节能 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "征集",
+        "score": 0.6,
+        "description": "邮件标题含有 征集 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "期刊",
+        "score": 0.4,
+        "description": "邮件标题含有 期刊 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "帮手",
+        "score": 0.6,
+        "description": "邮件标题含有 帮手 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "语音",
+        "score": 0.1,
+        "description": "邮件标题含有 语音 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "短信",
+        "score": 0.1,
+        "description": "邮件标题含有 短信 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "微信",
+        "score": 0.1,
+        "description": "邮件标题含有 微信 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "必看",
+        "score": 0.8,
+        "description": "邮件标题含有 必看 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "供求",
+        "score": 0.6,
+        "description": "邮件标题含有 供求 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "化工",
+        "score": 0.7,
+        "description": "邮件标题含有 化工 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "决策",
+        "score": 0.5,
+        "description": "邮件标题含有 决策 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "建筑",
+        "score": 0.4,
+        "description": "邮件标题含有 建筑 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "建站",
+        "score": 0.5,
+        "description": "邮件标题含有 建站 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "物资",
+        "score": 0.1,
+        "description": "邮件标题含有 物资 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "财税",
+        "score": 0.8,
+        "description": "邮件标题含有 财税 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "帮你",
+        "score": 0.5,
+        "description": "邮件标题含有 帮你 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "咨询",
+        "score": 0.2,
+        "description": "邮件标题含有 咨询 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "营销",
+        "score": 0.3,
+        "description": "邮件标题含有 营销 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "批发",
+        "score": 0.6,
+        "description": "邮件标题含有 批发 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "工程",
+        "score": 0.2,
+        "description": "邮件标题含有 工程 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "项目",
+        "score": 0.2,
+        "description": "邮件标题含有 项目 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "协会",
+        "score": 0.4,
+        "description": "邮件标题含有 协会 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "名录",
+        "score": 0.3,
+        "description": "邮件标题含有 名录 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "创新",
+        "score": 0.3,
+        "description": "邮件标题含有 创新 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "尊敬的",
+        "score": 0.3,
+        "description": "邮件标题含有 尊敬的 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "代理",
+        "score": 0.54,
+        "description": "邮件标题含有 代理 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "实务",
+        "score": 0.9,
+        "description": "邮件标题含有 实务 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "美白",
+        "score": 0.4,
+        "description": "邮件标题含有 美白 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "环保",
+        "score": 0.2,
+        "description": "邮件标题含有 环保 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "对手",
+        "score": 0.7,
+        "description": "邮件标题含有 对手 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "工艺品",
+        "score": 0.4,
+        "description": "邮件标题含有 工艺品 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "全案",
+        "score": 0.444,
+        "description": "邮件标题含有 全案 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "策划",
+        "score": 0.4,
+        "description": "邮件标题含有 策划 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "阴茎",
+        "score": 0.8,
+        "description": "邮件标题含有 阴茎 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "市场",
+        "score": 0.2,
+        "description": "邮件标题含有 市场 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "大批",
+        "score": 0.4,
+        "description": "邮件标题含有 大批 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "重磅",
+        "score": 0.5,
+        "description": "邮件标题含有 重磅 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "研讨",
+        "score": 0.5,
+        "description": "邮件标题含有 研讨 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "好消息",
+        "score": 0.4,
+        "description": "邮件标题含有 好消息 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "开拓",
+        "score": 0.3,
+        "description": "邮件标题含有 开拓 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "劳动",
+        "score": 0.3,
+        "description": "邮件标题含有 劳动 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "争议",
+        "score": 0.3,
+        "description": "邮件标题含有 争议 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "解决",
+        "score": 0.2,
+        "description": "邮件标题含有 解决 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "方案",
+        "score": 0.2,
+        "description": "邮件标题含有 方案 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "成人用品",
+        "score": 0.6,
+        "description": "邮件标题含有 成人用品 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "男女",
+        "score": 0.2,
+        "description": "邮件标题含有 男女 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "情趣",
+        "score": 0.2,
+        "description": "邮件标题含有 情趣 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "催情",
+        "score": 0.5,
+        "description": "邮件标题含有 催情 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "开课",
+        "score": 0.5,
+        "description": "邮件标题含有 开课 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "高精",
+        "score": 0.5,
+        "description": "邮件标题含有 高精 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "同城",
+        "score": 0.3,
+        "description": "邮件标题含有 同城 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "提供",
+        "score": 0.1,
+        "description": "邮件标题含有 提供 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "保温",
+        "score": 0.3,
+        "description": "邮件标题含有 保温 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "表情",
+        "score": 0.2,
+        "description": "邮件标题含有 表情 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "公寓",
+        "score": 0.2,
+        "description": "邮件标题含有 公寓 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "利器",
+        "score": 0.4,
+        "description": "邮件标题含有 利器 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "论文",
+        "score": 0.1,
+        "description": "邮件标题含有 论文 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "征稿",
+        "score": 0.3,
+        "description": "邮件标题含有 征稿 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "期刊",
+        "score": 0.2,
+        "description": "邮件标题含有 期刊 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "索取",
+        "score": 0.3,
+        "description": "邮件标题含有 索取 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "公文",
+        "score": 0.3,
+        "description": "邮件标题含有 公文 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "丰胸",
+        "score": 0.4,
+        "description": "邮件标题含有 丰胸 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "祛痘",
+        "score": 0.4,
+        "description": "邮件标题含有 祛痘 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "兼容",
+        "score": 0.4,
+        "description": "邮件标题含有 兼容 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "昌隆",
+        "score": 0.1,
+        "description": "邮件标题含有 昌隆 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "开店",
+        "score": 0.3,
+        "description": "邮件标题含有 开店 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "纤维",
+        "score": 0.4,
+        "description": "邮件标题含有 纤维 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "理财",
+        "score": 0.4,
+        "description": "邮件标题含有 理财 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "标准",
+        "score": 0.1,
+        "description": "邮件标题含有 标准 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "工厂",
+        "score": 0.3,
+        "description": "邮件标题含有 工厂 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "车间",
+        "score": 0.3,
+        "description": "邮件标题含有 车间 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "设备",
+        "score": 0.3,
+        "description": "邮件标题含有 设备 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "负责人",
+        "score": 0.1,
+        "description": "邮件标题含有 负责人 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "贺卡",
+        "score": 0.2,
+        "description": "邮件标题含有 贺卡 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "平台",
+        "score": 0.1,
+        "description": "邮件标题含有 平台 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "教学",
+        "score": 0.2,
+        "description": "邮件标题含有 教学 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "贵司",
+        "score": 0.4,
+        "description": "邮件标题含有 贵司 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "生产",
+        "score": 0.3,
+        "description": "邮件标题含有 生产 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "计划",
+        "score": 0.3,
+        "description": "邮件标题含有 计划 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "训练营",
+        "score": 0.5,
+        "description": "邮件标题含有 训练营 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "新手",
+        "score": 0.2,
+        "description": "邮件标题含有 新手 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "成交",
+        "score": 0.3,
+        "description": "邮件标题含有 成交 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "代理",
+        "score": 0.3,
+        "description": "邮件标题含有 代理 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "辞退",
+        "score": 0.8,
+        "description": "邮件标题含有 辞退 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "员工",
+        "score": 0.5,
+        "description": "邮件标题含有 员工 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "回执",
+        "score": 0.3,
+        "description": "邮件标题含有 回执 敏感词",
+        "re.flag": 0,
+        "area": "subject",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "有限公司",
+        "score": 0.01,
+        "description": "邮件内容含有 有限公司 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "发票",
+        "score": 0.01,
+        "description": "邮件内容含有 发票 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "广告",
+        "score": 0.01,
+        "description": "邮件内容含有 广告 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "销售",
+        "score": 0.3,
+        "description": "邮件内容含有 销售 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "运输",
+        "score": 0.04,
+        "description": "邮件内容含有 运输 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "优惠",
+        "score": 0.01,
+        "description": "邮件内容含有 优惠 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "建筑",
+        "score": 0.01,
+        "description": "邮件内容含有 建筑 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "商品",
+        "score": 0.1,
+        "description": "邮件内容含有 商品 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "代开",
+        "score": 1.5,
+        "description": "邮件内容含有 代开 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "联系人",
+        "score": 0.3,
+        "description": "邮件内容含有 联系人 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "实业",
+        "score": 0.04,
+        "description": "邮件内容含有 实业 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "贵公司",
+        "score": 2.1,
+        "description": "邮件内容含有 贵公司 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "地税",
+        "score": 0.2,
+        "description": "邮件内容含有 地税 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "国税",
+        "score": 0.2,
+        "description": "邮件内容含有 国税 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "进项",
+        "score": 0.07,
+        "description": "邮件内容含有 进项 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "付款",
+        "score": 0.08,
+        "description": "邮件内容含有 付款 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "安装",
+        "score": 0.01,
+        "description": "邮件内容含有 安装 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "验证",
+        "score": 0.01,
+        "description": "邮件内容含有 验证 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "来电",
+        "score": 0.03,
+        "description": "邮件内容含有 来电 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "点数",
+        "score": 0.4,
+        "description": "邮件内容含有 点数 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "大小",
+        "score": 0.02,
+        "description": "邮件内容含有 大小 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "海关",
+        "score": 0.2,
+        "description": "邮件内容含有 海关 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "雄厚",
+        "score": 0.05,
+        "description": "邮件内容含有 雄厚 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "经理",
+        "score": 0.1,
+        "description": "邮件内容含有 经理 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "详情",
+        "score": 0.5,
+        "description": "邮件内容含有 详情 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "缴款",
+        "score": 0.5,
+        "description": "邮件内容含有 缴款 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "我司",
+        "score": 2.3,
+        "description": "邮件内容含有 我司 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "租赁",
+        "score": 0.4,
+        "description": "邮件内容含有 租赁 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "查询",
+        "score": 0.01,
+        "description": "邮件内容含有 查询 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "长期有效",
+        "score": 0.25,
+        "description": "邮件内容含有 长期有效 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "税务",
+        "score": 0.01,
+        "description": "邮件内容含有 税务 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "贵司",
+        "score": 1.7,
+        "description": "邮件内容含有 贵司 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "长期",
+        "score": 0.4,
+        "description": "邮件内容含有 长期 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "真伪",
+        "score": 0.01,
+        "description": "邮件内容含有 真伪 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "额度",
+        "score": 0.1,
+        "description": "邮件内容含有 额度 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "打扰",
+        "score": 0.1,
+        "description": "邮件内容含有 打扰 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "抵扣",
+        "score": 1.1,
+        "description": "邮件内容含有 抵扣 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "每月",
+        "score": 0.03,
+        "description": "邮件内容含有 每月 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "绝对",
+        "score": 0.2,
+        "description": "邮件内容含有 绝对 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "联系",
+        "score": 0.01,
+        "description": "邮件内容含有 联系 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "商讨",
+        "score": 0.18,
+        "description": "邮件内容含有 商讨 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "餐饮",
+        "score": 0.34,
+        "description": "邮件内容含有 餐饮 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "请电",
+        "score": 0.3,
+        "description": "邮件内容含有 请电 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "票据",
+        "score": 0.1,
+        "description": "邮件内容含有 票据 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "合作",
+        "score": 0.1,
+        "description": "邮件内容含有 合作 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "服务业",
+        "score": 0.3,
+        "description": "邮件内容含有 服务业 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "本公司",
+        "score": 0.35,
+        "description": "邮件内容含有 本公司 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "税率",
+        "score": 0.3,
+        "description": "邮件内容含有 税率 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "传真",
+        "score": 0.1,
+        "description": "邮件内容含有 传真 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "顺祝",
+        "score": 1.1,
+        "description": "邮件内容含有 顺祝 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "尊敬的",
+        "score": 0.3,
+        "description": "邮件内容含有 尊敬的 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "洽商",
+        "score": 0.4,
+        "description": "邮件内容含有 洽商 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "彼此",
+        "score": 0.2,
+        "description": "邮件内容含有 彼此 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "全国各地",
+        "score": 0.12,
+        "description": "邮件内容含有 全国各地 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "洽谈",
+        "score": 0.8,
+        "description": "邮件内容含有 洽谈 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "互惠",
+        "score": 0.1,
+        "description": "邮件内容含有 互惠 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "互利",
+        "score": 0.1,
+        "description": "邮件内容含有 互利 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "必成",
+        "score": 0.2,
+        "description": "邮件内容含有 必成 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "多年",
+        "score": 0.1,
+        "description": "邮件内容含有 多年 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "一直",
+        "score": 0.1,
+        "description": "邮件内容含有 一直 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "成立",
+        "score": 0.1,
+        "description": "邮件内容含有 成立 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "兴隆",
+        "score": 0.85,
+        "description": "邮件内容含有 兴隆 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "开票",
+        "score": 0.5,
+        "description": "邮件内容含有 开票 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "坚持",
+        "score": 0.1,
+        "description": "邮件内容含有 坚持 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "服务",
+        "score": 0.15,
+        "description": "邮件内容含有 服务 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "真正",
+        "score": 0.2,
+        "description": "邮件内容含有 真正 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "做到",
+        "score": 0.2,
+        "description": "邮件内容含有 做到 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "余额",
+        "score": 0.1,
+        "description": "邮件内容含有 余额 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "业务",
+        "score": 0.1,
+        "description": "邮件内容含有 业务 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "树立",
+        "score": 0.2,
+        "description": "邮件内容含有 树立 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "代征",
+        "score": 0.4,
+        "description": "邮件内容含有 代征 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "商祺",
+        "score": 1.55,
+        "description": "邮件内容含有 商祺 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "敬请",
+        "score": 0.2,
+        "description": "邮件内容含有 敬请 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "进销存",
+        "score": 1.5,
+        "description": "邮件内容含有 进销存 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "无标题",
+        "score": 1.2,
+        "description": "邮件内容含有 无标题 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "欢迎",
+        "score": 0.1,
+        "description": "邮件内容含有 欢迎 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "茶点",
+        "score": 1.0,
+        "description": "邮件内容含有 茶点 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "现有",
+        "score": 0.3,
+        "description": "邮件内容含有 现有 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "您好",
+        "score": 0.3,
+        "description": "邮件内容含有 您好 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "标题文档",
+        "score": 1.5,
+        "description": "邮件内容含有 标题文档 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "案例",
+        "score": 0.4,
+        "description": "邮件内容含有 案例 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "分析",
+        "score": 0.4,
+        "description": "邮件内容含有 分析 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "如需",
+        "score": 0.4,
+        "description": "邮件内容含有 如需 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "商谈",
+        "score": 0.2,
+        "description": "邮件内容含有 商谈 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "培训",
+        "score": 0.1,
+        "description": "邮件内容含有 培训 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "电话",
+        "score": 0.1,
+        "description": "邮件内容含有 电话 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "短信",
+        "score": 0.1,
+        "description": "邮件内容含有 短信 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "微信",
+        "score": 0.1,
+        "description": "邮件内容含有 微信 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "本着",
+        "score": 0.3,
+        "description": "邮件内容含有 本着 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "如有",
+        "score": 0.3,
+        "description": "邮件内容含有 如有 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "敬请",
+        "score": 0.5,
+        "description": "邮件内容含有 敬请 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "原谅",
+        "score": 0.6,
+        "description": "邮件内容含有 原谅 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "进出口",
+        "score": 0.1,
+        "description": "邮件内容含有 进出口 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "进口",
+        "score": 0.1,
+        "description": "邮件内容含有 进口 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "出口",
+        "score": 0.1,
+        "description": "邮件内容含有 出口 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "实力",
+        "score": 0.1,
+        "description": "邮件内容含有 实力 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "单位名称",
+        "score": 0.3,
+        "description": "邮件内容含有 单位名称 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "开户",
+        "score": 0.3,
+        "description": "邮件内容含有 开户 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "等按",
+        "score": 0.1,
+        "description": "邮件内容含有 等按 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "全国",
+        "score": 0.4,
+        "description": "邮件内容含有 全国 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "集团",
+        "score": 0.2,
+        "description": "邮件内容含有 集团 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "转帐",
+        "score": 0.2,
+        "description": "邮件内容含有 转帐 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "行业",
+        "score": 0.4,
+        "description": "邮件内容含有 行业 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "承诺",
+        "score": 0.4,
+        "description": "邮件内容含有 承诺 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "附件转",
+        "score": 1.5,
+        "description": "邮件内容含有 附件转 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "人力资源",
+        "score": 0.5,
+        "description": "邮件内容含有 人力资源 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "诸如此类",
+        "score": 1.2,
+        "description": "邮件内容含有 诸如此类 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "参考",
+        "score": 0.3,
+        "description": "邮件内容含有 参考 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "报名",
+        "score": 1.5,
+        "description": "邮件内容含有 报名 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "主办",
+        "score": 1.0,
+        "description": "邮件内容含有 主办 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "费用",
+        "score": 0.8,
+        "description": "邮件内容含有 费用 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "包括",
+        "score": 0.8,
+        "description": "邮件内容含有 包括 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "如不需",
+        "score": 2.0,
+        "description": "邮件内容含有 如不需 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "\\d元",
+        "score": 0.6,
+        "description": "邮件内容含有 \\d元 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "迅速",
+        "score": 0.8,
+        "description": "邮件内容含有 迅速 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "提升",
+        "score": 0.85,
+        "description": "邮件内容含有 提升 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "新政",
+        "score": 1.8,
+        "description": "邮件内容含有 新政 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "解读",
+        "score": 1.0,
+        "description": "邮件内容含有 解读 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    },
+    {
+        "pattern": "人民币",
+        "score": 0.5,
+        "description": "邮件内容含有 人民币 敏感词",
+        "re.flag": 0,
+        "area": "body",
+        "tag": "疑似垃圾邮件关键字"
+    }
+]

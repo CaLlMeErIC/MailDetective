@@ -1,0 +1,20 @@
+{
+    "VerifyUrl": [
+        3,
+        "邮件html中，实际链接和显示的url不一致"
+    ],
+    "CheckDate": [
+        3.3,
+        "邮件时间在received时间之后3-6小时"
+    ],
+    "total_score": 7.3,
+    "TO_MALFORMED": [
+        1,
+        "to字段畸形"
+    ],
+    "邮件标签": [
+        "to字段异常",
+        "邮件时间在received时间之后3-6小时",
+        "url伪造"
+    ]
+}

@@ -1,0 +1,40 @@
+序号,字段名称,出现次数,字段内容举例,说明,样本文件名
+1,From,4965,['sales@mickmgmt.com'], 显示的发件人,../../testeml/060014e704aa524767abee404ecceeb2
+2,Date,4964,['28 Aug 2020 16:10:06 -0700'],日期 ,../../testeml/060014e704aa524767abee404ecceeb2
+3,Subject,4962,['Re: Order Amendments'],邮件主题 ,../../testeml/060014e704aa524767abee404ecceeb2
+4,Content-Type,4920,['multipart/mixed;\n\tboundary="----=_NextPart_000_0012_64B55105.77EF9D58"'],提示内容类型,../../testeml/060014e704aa524767abee404ecceeb2
+5,MIME-Version,4868,['1.0'],MIME版本，目前合法的值只有1.0 ,../../testeml/060014e704aa524767abee404ecceeb2
+6,To,4861,['okocaoglu@ikea.com.tr'],收件人,../../testeml/060014e704aa524767abee404ecceeb2
+7,Received,2122,"['from unknown by localhost (amavisd-new, unix socket) id p29mtUSF0Lk8\n\tfor <info@kraeber.de>; Sun, 21 Feb 2021 19:22:19 +0100 (CET)', 'from mail.unnaki.com.py (mail.unnaki.com.py [165.22.34.90])\n\tby Vanessa.inwise.de (amavisd-milter) with ESMTP id 11LILsmf009323;\n\tWed, 25 Nov 2020 20:37:56 +0100\n\t(envelope-from <dgf.sg.payableinvoices@dhl.com>)', 'from localhost (localhost [127.0.0.1])\n\tby mail.unnaki.com.py (Postfix) with ESMTP id A4DAB20DD10;\n\tSun, 21 Feb 2021 12:32:36 +0000 (UTC)', 'from mail.unnaki.com.py ([127.0.0.1])\n\tby localhost (mail.unnaki.com.py [127.0.0.1]) (amavisd-new, port 10032)\n\twith ESMTP id ByVUZAlk7iLv; Sun, 21 Feb 2021 12:32:36 +0000 (UTC)', 'from localhost (localhost [127.0.0.1])\n\tby mail.unnaki.com.py (Postfix) with ESMTP id 79397217195;\n\tSun, 21 Feb 2021 11:13:58 +0000 (UTC)', 'from mail.unnaki.com.py ([127.0.0.1])\n\tby localhost (mail.unnaki.com.py [127.0.0.1]) (amavisd-new, port 10026)\n\twith ESMTP id Oxcjeyfovfs2; Sun, 21 Feb 2021 11:13:56 +0000 (UTC)', 'from [38.68.49.58] (unknown [38.68.49.58])\n\tby mail.unnaki.com.py (Postfix) with ESMTPSA id 0030620BC65;\n\tSun, 21 Feb 2021 09:47:59 +0000 (UTC)']",显示消息从消息发件人到最终收件人的路径。 它们以相反的顺序阅读，因此邮件顶部的 Received: 标题是将邮件传递给您的标题，最后显示的标题应该是它离开发件人的地方 ,../../testeml/060235d71e0912b6defcd0f738e83ca8
+8,Message-ID,1545,['<20200828161006.FA70AAFCCAADCCCD@mickmgmt.com>'],前面一部分一般是时间，后面一部分是发件域名 ,../../testeml/060014e704aa524767abee404ecceeb2
+9,Message-Id,1381,['<20210221094800.0030620BC65@mail.unnaki.com.py>'],同上 ,../../testeml/060235d71e0912b6defcd0f738e83ca8
+10,Content-Transfer-Encoding,1306,['7bit'],Content-Transfer-Encoding 字段用于指示已使用的转换类型，以便以可接受的传输方式表示正文。,../../testeml/061712d56a5183172d0b0a2bf66db3a8
+11,Return-Path,1281,['<dgf.sg.payableinvoices@dhl.com>'],用于指定退回电子邮件的发送位置 ,../../testeml/060235d71e0912b6defcd0f738e83ca8
+14,Sender,818,['<postmaster@corpease.net>'],发送人，一般和From相同，但代发的情况下会不一样,../../testeml/065074b069bbb88693df24ec83e5a3bc
+16,Authentication-Results,662,['spf=fail (sender IP is 72.249.48.7)\n smtp.mailfrom=caseypeterson.com; dkim=pass (signature was verified)\n header.d=peltfarm.net;dmarc=fail action=none\n header.from=caseypeterson.com;'],在这里可以找到电子邮件客户端在发送电子邮件时验证的内容。 里面会显示 SPF 和 DKIM 身份验证是否通过。,../../testeml/061712d56a5183172d0b0a2bf66db3a8
+17,Received-SPF,661,"['Fail (mailgate2.vega.com: domain of nmccorkell@altivia.com does\n not designate 173.231.241.34 as permitted sender) identity=mailfrom;\n client-ip=173.231.241.34; receiver=mailgate2.vega.com;\n envelope-from=""nmccorkell@altivia.com""; x-sender=""nmccorkell@altivia.com"";\n x-conformance=spf_only; x-record-type=""v=spf1""; x-record-text=""v=spf1\n include:spf.protection.outlook.com include:spf.emailsignatures365.com\n ip4:74.213.16.18 ip4:65.52.56.186 ip4:70.61.43.194 ip4:50.197.217.68\n ip4:216.215.118.202 ip4:216.74.238.206 ip4:192.145.236.87 ip4:50.110.146.74\n -all""', 'None (mailgate2.vega.com: no sender authenticity information\n available from domain of postmaster@se4d-iad1.servconfig.com) identity=helo;\n client-ip=173.231.241.34; receiver=mailgate2.vega.com;\n envelope-from=""nmccorkell@altivia.com"";\n x-sender=""postmaster@se4d-iad1.servconfig.com""; x-conformance=spf_only']",收到的SPF回复，一般是SPF检查发生错误时生成 ,../../testeml/065348d536a6c15ea03b2ab8b170d769
+18,Delivered-To,627,['banned-quarantine'],Delivered-To 显示收件人的姓名和地址，以及 CC 和 BCC 中存在的其他地址。 Deliver-To 显示接收交付的收件人的地址,../../testeml/060235d71e0912b6defcd0f738e83ca8
+19,DKIM-Signature,549,['v=1; a=rsa-sha256; c=relaxed/simple; d=aruba.it; s=a1;\n\tt=1643328704; bh=FzDvSC6EzOANij/F2iXYWPL556axrh3b3MiALI3kIbs=;\n\th=Date:From:To:Subject:MIME-Version:Content-Type;\n\tb=Q4ynAj59HsvbEySusHLGyOFlyBYAA8L/vf7WCl0Xg8mcD59MohmHaxTy22t/x6EST\n\t qvqD5MC0lwEY9klQdPhkzzM5etBiRy4noOJAFTCP5vYPfOIXmgpbisM3CqQpo2fawI\n\t iiWJjVLb/0znER6dUnCQRkEe6y5Ea+DihUaMmcGmTqMTx7bjlramSo4RzSEus4t+3l\n\t UgHk9fx7HyIRzNQIQ1JYmq2yTo6JFHzWRrpT/63FbY0OXEufV0uLc9HYlbmjmz0VmO\n\t flzfdPMpTwCSE6D72esM/Csg+zPPDfCyaZz9zcFn3AVpY/Tk7DP6hK1LFILvdLC9ln\n\t rgXcmcun+Uvgw=='],dkim签名 ,../../testeml/066082b7570ec68b42188b8386e9aa95
+22,User-Agent,428,['Heirloom mailx 12.5 7/5/10'],用户代理,../../testeml/061022ca4ee84203e72454239f52be6e
+33,Reply-To,312,['Thulasi M <avery.serkis@aol.com>'],当邮件的发件人希望对邮件的任何回复都转到该特定电子邮件地址而不是 From: 地址中的地址时，将添加 Reply-To 标头。,../../testeml/060235d71e0912b6defcd0f738e83ca8
+36,Thread-Index,257,['AQHYE+6/UWvgckUF+UudOfctqOp+CA=='],经过64编码的微软使用的类时间戳字段,../../testeml/066156dedd95b5db4540283c847c55f0
+37,References,254,['\n <DM5PR02MB2794510E9D40E6727745EBD6CB7C9@DM5PR02MB2794.namprd02.prod.outlook.com>'],作者应该从转发的邮件那里复制 References 并附加来源的 Message-ID。,../../testeml/065348d536a6c15ea03b2ab8b170d769
+39,Content-Language,246,['en-US'],指定语言,../../testeml/073487ecf94c8439af3a4a80a6f475f2
+40,In-Reply-To,242,['\n <DM5PR02MB2794510E9D40E6727745EBD6CB7C9@DM5PR02MB2794.namprd02.prod.outlook.com>'],用于生成References字段,../../testeml/065348d536a6c15ea03b2ab8b170d769
+43,Thread-Topic,237,['spam mail'],邮件的话题,../../testeml/073487ecf94c8439af3a4a80a6f475f2
+50,Accept-Language,175,['en-US'],指定语言,../../testeml/073487ecf94c8439af3a4a80a6f475f2
+54,ARC-Authentication-Results,170,['i=1; mx.google.com;\n       spf=neutral (google.com: 93.137.75.215 is neither permitted nor denied\n by best guess record for domain of day@klatovy.net)\n smtp.mailfrom=day@klatovy.net'],包含 SPF、DKIM 和 DMARC 等电子邮件身份验证结果的标头,../../testeml/069697d8f63ebc4b90f1308c0b031cac
+55,ARC-Message-Signature,170,['i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;\n s=arc-20160816;\n        h=content-transfer-encoding:mime-version:date:subject:to:from\n         :message-id;\n        bh=GA6GYJHwE9xlzkHaqTrjfWUxB12LkbAdUWjo5w/g3OY=;\n        b=gIgR9iOfRzXd/tBrdryQtugS7zQ7PWMUgJ4tTyxDvEoKXKhYB6FRAGo9PU5/Bkx+Aw\n         8nX/8FlCcVUSn0WC+cDyC5dVKMilA12XpHvdacFTSwkv1TpfSuq/OHiaErNuQiP7fXZ0\n         J7UzxDueLICnXio6yaU9DPIyM0QAt3jwVkOevsdFKZKdZTZfHtBVjJEPM7n+Ge8LXGGr\n         95e6gWYpPwC3EnXo/Oili9W27vZtvv6OYHyaW7hy6kchWjGtrfsD+WGa4vIPZ7wy9Pul\n         ZXSyyL/NTc1dqaSl3BLAooYvtPBJcaL+q8rV/6l7QdS6MOjmqV+vtS6lojhX8yz7d8cT\n         hUJQ=='],"一个类似于 DKIM 的签名，它是邮件标头信息
+的快照，包括收件人、发件人、主题和正文",../../testeml/069697d8f63ebc4b90f1308c0b031cac
+57,ARC-Seal,164,['i=1; a=rsa-sha256; t=1609448271; cv=none;\n        d=google.com; s=arc-20160816;\n        b=0Sx37sCm7UXKG/nEV65Ux9uEIzdncrw3H0OaXte0KWHrFJ8PbKodk3gG7K+D0oZ7PI\n         UkZFSzhFoEHXVcyRom3t/gbxZX4KTHSkED1axes8CtnCRZCUuJtIGS6azlYT3sXGz6vK\n         uhqwsqhig0oVYzqi/RLgncWg+KfEl1vSAHcu+uS+fBBrD6CBtXHxhGh9XfRt4oGvfV6G\n         8wYSC6pgXOAY1reWLuULZyxqlNUxJ5a42BL3qyxIrLyUb53avHB+cY4t/1Uabx4tAu7Z\n         tgHrJwX4+KSqki4TMrU1MDHZ/Qwpcg7Gzpdb2qe82NIc0OcTc2OWaQ/+AMV9+laZSkQQ\n         1sig=='],另一个类似 DKIM 的签名，包括 ARC 签名和 ARC 身份验证结果标头信息,../../testeml/069697d8f63ebc4b90f1308c0b031cac
+59,Organization,163,['ITLDC'],发件组织,../../testeml/064216d608f255679a2905e9297e439c
+78,Return-path,109,['<glopez@cefca.es>'],同Return-Path ,../../testeml/072432f292aa0d051a634648703b1a1d
+83,Mime-Version,90,['1.0'],同MIME-Version,../../testeml/103463c0dd4b836554427da8079d7b7d
+97,Importance,72,['High'],邮件的优先级,../../testeml/064793f080b7ba3f9cbfb12ea2ab5eb5
+114,DKIM-Filter,54,['OpenDKIM Filter v2.11.0 smtpauth.paulbunyan.net 30F185F8A9'],DKIM过滤器信息,../../testeml/27c04fd95e72b3ea5e0b4091a3a3e3cd
+118,Content-type,51,['Multipart/mixed; charset=utf-8;\n boundary="00B0FF43_message_boundary"'],同Content-Type ,../../testeml/066156dedd95b5db4540283c847c55f0
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

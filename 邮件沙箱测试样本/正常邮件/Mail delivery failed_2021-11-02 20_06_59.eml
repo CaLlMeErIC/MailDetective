@@ -1,0 +1,118 @@
+Received: from A010521-NC.ESG.360ES.CN (unknown [10.91.22.29])
+	by skyeye.com (Postfix) with ESMTP id 8F3FA1000766B
+	for <2_qushi_eml@black.com>; Thu, 28 Jan 2021 20:08:52 +0800 (CST)
+Received: from dal-shared-41.hostwindsdns.com (unknown [23.254.202.145])
+	by mail01.b.360.cn (Postfix) with ESMTPS id 859E37E049
+	for <aisha123@360.net>; Fri,  1 Mar 2019 05:21:00 +0800 (CST)
+Received: from mailnull by dal-shared-41.hostwindsdns.com with local (Exim
+ 4.91)
+	id 1gzTQH-000556-JD
+	for aisha123@360.net; Thu, 28 Feb 2019 13:40:59 -0800
+X-Failed-Recipients: cityslicker069@aol.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@dal-shared-41.hostwindsdns.com>
+To: <aisha123@360.net>
+Content-Type: multipart/report; report-type=delivery-status;
+ boundary=1551390057-eximdsn-655747515
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1gzTQH-000556-JD@dal-shared-41.hostwindsdns.com>
+Date: Thu, 28 Feb 2019 13:40:57 -0800
+X-OutGoing-Spam-Status: No, score=9.2
+X-AntiAbuse: This header was added to track abuse,
+ please include it with any abuse report
+X-AntiAbuse: Primary Hostname - dal-shared-41.hostwindsdns.com
+X-AntiAbuse: Original Domain - 360.net
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Get-Message-Sender-Via: dal-shared-41.hostwindsdns.com: sender_ident via
+ received_protocol == local: mailnull/primary_hostname/system user
+X-Authenticated-Sender: dal-shared-41.hostwindsdns.com: mailnull
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: xmojos.com:/public_html/nigeriamustwork.org/wp-content
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.0.0.1549-8.2.0.1013-24462.003
+X-TM-AS-Result: Yes-29.187-6.0-31-11
+X-imss-scan-details: Yes-29.187-6.0-31-11
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+X-TMASE-Version: IMSVA-9.0.0.1549-8.2.1013-24462.003
+X-TMASE-Result: 11-29.186700-10.000000
+X-TMASE-MatchedRID: ATFBwHvw0Sum4QLKxTHcQ65hNiDbc2Yjcn4rOlkA5Vlb6PBUqmq+UpYN
+	myOq32+pNxkNft3i2duDJYKVktVNTcbjC4wmcaZqrJMM4vu/fErKG6mjA3qUTKg6JKmnAmLR+2U
+	r+AAcVpIzEluRjjKkR+1fIsQL9my9TbTM7rgVK3fdCHbRg1xACpl/lu28zzkBydND5FGRojfVhD
+	VI84pOxwsojs305z7p/kYsNmIOA6YMiR68q3N8MuaoWp3dMEADY9JlLwL1dg1CannV/b7f2fZap
+	uNW2t0KnDqOl552hkfWKa4Cv12DX7p17RhQvDQWO7fTrStwyDu4IRKvHvCWcjw83qPnPevIT85+
+	SH/4AvhkQ7wzPlBwmp+nj1/XkbT6P10LLF+VmWtIHwOk4tE2DNZKsq3DGpaliJ71fA8tGWgJlPx
+	8QYBEUtN1N8d4IHm+NxIxq9Yz/XPFGeCp6oVFBo5H1dJYIM4WKyElrJ0VRj+bKItl61J/yZUdXE
+	/WGn0F1raYE7HyMpYlVh1ZNsbxV+rvLholLsig
+X-TMASE-SNAP-Result: Not scanned
+X-imss-reprocess-rules: 2.178
+X-imss-reprocess-type: quarantine
+
+--1551390057-eximdsn-655747515
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+VGhpcyBtZXNzYWdlIHdhcyBjcmVhdGVkIGF1dG9tYXRpY2FsbHkgYnkgbWFpbCBkZWxpdmVyeSBz
+b2Z0d2FyZS4NCg0KQSBtZXNzYWdlIHRoYXQgeW91IHNlbnQgY291bGQgbm90IGJlIGRlbGl2ZXJl
+ZCB0byBvbmUgb3IgbW9yZSBvZiBpdHMNCnJlY2lwaWVudHMuIFRoaXMgaXMgYSBwZXJtYW5lbnQg
+ZXJyb3IuIFRoZSBmb2xsb3dpbmcgYWRkcmVzcyhlcykgZmFpbGVkOg0KDQogIGNpdHlzbGlja2Vy
+MDY5QGFvbC5jb20NCiAgICBEb21haW4geG1vam9zLmNvbSBoYXMgZXhjZWVkZWQgdGhlIG1heCBk
+ZWZlcnMgYW5kIGZhaWx1cmVzIHBlciBob3VyICgxNS8xNSAoNTUlKSkgYWxsb3dlZC4gTWVzc2Fn
+ZSBkaXNjYXJkZWQuDQo=
+
+--1551390057-eximdsn-655747515
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; dal-shared-41.hostwindsdns.com
+
+Action: failed
+Final-Recipient: rfc822;cityslicker069@aol.com
+Status: 5.0.0
+
+--1551390057-eximdsn-655747515
+Content-type: message/rfc822
+
+Return-path: <aisha123@360.net>
+Received: from ulmdskwl by dal-shared-41.hostwindsdns.com with local (Exim
+ 4.91)
+	(envelope-from <aisha123@360.net>)
+	id 1gzTQG-00054c-Jq
+	for cityslicker069@aol.com; Thu, 28 Feb 2019 13:40:57 -0800
+To: cityslicker069@aol.com
+Subject: Business Proposal
+X-PHP-Script: nigeriamustwork.org/wp-content/logtaz.php for 41.215.171.46
+X-PHP-Originating-Script: 1072:logtaz.php
+Date: Thu, 28 Feb 2019 21:40:56 +0000
+From: Aisha <aisha123@360.net>
+Reply-To: aishaj729@gmail.com
+Message-ID: <a7e6582bfec1c83b484d6fe900c5b359@nigeriamustwork.org>
+X-Mailer: Leaf PHPMailer 2.7 (leafmailer.pw)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=
+Content-Transfer-Encoding: 8bit
+X-OutGoing-Spam-Status: No, score=7.3
+
+Dear Sir/Madam
+
+I'm Miss Aisha Jawara, the ex- wife of YAYA JAMIN, former president of Gambia.
+
+I am requesting you to take possession and move some huge amount of Cash out of Africa for investment It is a large sum of money in U S Dollars 
+The person or entity  willing to take possession and move these huge amount of Cash must absolutely be a very well to do individual and or institution with full knowledge and mechanism of how to handle huge cash 
+We need to have the following from the interested party
+    
+ Exact NATIONAL  
+The interested party can Just come to Ghana were some of  the funds are for a short visit to meet and have a round table discussion, or make arrangement for the monies to be transferred. For the Best interest of all parties...please acknowledge my offer so we advance with the timely arrangement to move the funds to your country
+Relevant documents to back up the claims, are intact
+
+waiting for your positive response. You can contact me on (+233559279509)
+
+(aishaj729@gmail.com)
+
+Aisha Jawara
+
+
+--1551390057-eximdsn-655747515--

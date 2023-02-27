@@ -1,0 +1,20 @@
+{
+    "CheckDate": [
+        2,
+        "邮件时间在received时间之前6-12小时"
+    ],
+    "total_score": 3.5,
+    "INVALID_TZ_CST": [
+        0.5,
+        "date是不合法的时区"
+    ],
+    "TO_MALFORMED": [
+        1,
+        "to字段畸形"
+    ],
+    "邮件标签": [
+        "to字段异常",
+        "没有获取到部分内容的charset",
+        "邮件时间在received时间之前6-12小时"
+    ]
+}

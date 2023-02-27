@@ -1,0 +1,20 @@
+X-MAIL-FROM: <zhouliang02@qianxin.com>
+X-RCPT-TO: <root@skyeye.mail.info>
+Received: from localhost.localdomain (unknown [10.91.4.127])
+	by skyeye.mail.info (Postfix) with ESMTP id CE25F6E
+	for <root@skyeye.mail.info>; Mon, 18 Jan 2021 11:32:48 +0800 (CST)
+Received: from localhost.localdomain (localhost [IPv6:::1])
+	by localhost.localdomain (Postfix) with ESMTP id A505F2008075
+	for <liukai@cat.com>; Mon, 18 Jan 2021 19:25:16 +0800 (CST)
+To: liukai@cat.com
+From: zhouliang02@qianxin.com
+Subject: Welcome
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Message-Id: <20210118112516.A505F2008075@localhost.localdomain>
+Date: Mon, 18 Jan 2021 19:25:16 +0800 (CST)
+
+Hi,
+
+Welcome to your new account.
