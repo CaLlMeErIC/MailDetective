@@ -21,5 +21,7 @@ MailDetective.py的参数：
 --save 指定保存结果的文件夹，如不提供默认为Report
 --verbose 指定是否打印结果，默认为False
 
+其他细节在博客里：https://blog.csdn.net/qq_43199509/article/details/129244264
+
 测试：
 MailDetective.py --dir Samples --verbose True
